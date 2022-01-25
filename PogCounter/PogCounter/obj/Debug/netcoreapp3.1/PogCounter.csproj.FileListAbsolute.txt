@@ -1,0 +1,14 @@
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\bin\Debug\netcoreapp3.1\PogCounter.exe
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\bin\Debug\netcoreapp3.1\PogCounter.deps.json
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\bin\Debug\netcoreapp3.1\PogCounter.runtimeconfig.json
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\bin\Debug\netcoreapp3.1\PogCounter.runtimeconfig.dev.json
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\bin\Debug\netcoreapp3.1\PogCounter.dll
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\bin\Debug\netcoreapp3.1\PogCounter.pdb
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\obj\Debug\netcoreapp3.1\PogCounter.csproj.AssemblyReference.cache
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\obj\Debug\netcoreapp3.1\PogCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\obj\Debug\netcoreapp3.1\PogCounter.AssemblyInfoInputs.cache
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\obj\Debug\netcoreapp3.1\PogCounter.AssemblyInfo.cs
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\obj\Debug\netcoreapp3.1\PogCounter.csproj.CoreCompileInputs.cache
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\obj\Debug\netcoreapp3.1\PogCounter.dll
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\obj\Debug\netcoreapp3.1\PogCounter.pdb
+C:\Users\nhngo\Documents\GitHub\yt_transcript_pogcounter\PogCounter\PogCounter\obj\Debug\netcoreapp3.1\PogCounter.genruntimeconfig.cache
