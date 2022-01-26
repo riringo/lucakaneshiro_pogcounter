@@ -139,7 +139,7 @@ namespace PogCounter.Models
         public void PrintDictionary() 
         {
 
-            Console.WriteLine("### Pog Dictionary");
+            Console.WriteLine("### **Pog Dictionary**");
             Console.WriteLine("**Pog-like Word** | **Count**");
             Console.WriteLine(":---: | :---:");
             foreach (var key in this.pogCountDictionary.Keys)
@@ -153,15 +153,15 @@ namespace PogCounter.Models
             Console.WriteLine($"## [{this.vidTitle}]({this.YTLink})");
             Console.WriteLine($"**Total Runtime in Minutes**: {this.runtimeInMinutes}");
             Console.WriteLine();
-            Console.WriteLine($"Pog Stats:");
+            Console.WriteLine($"### **Pog Stats:**");
             Console.WriteLine();
-            Console.WriteLine($"   **Total number of words**: {this.wordCount}");
+            Console.WriteLine($"   \t**Total number of words**: {this.wordCount}");
             Console.WriteLine();
-            Console.WriteLine($"   **Total number of Pog-like words**: {this.pogCount}");
+            Console.WriteLine($"   \t**Total number of Pog-like words**: {this.pogCount}");
             Console.WriteLine();
-            Console.WriteLine($"   **Pog Density (Number of Pogs / Total Words)**: {this.pogDensity}");
+            Console.WriteLine($"   \t**Pog Density (Number of Pogs / Total Words)**: {this.pogDensity}");
             Console.WriteLine();
-            Console.WriteLine($"   **Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: {this.pogPerMinute}");
+            Console.WriteLine($"   \t**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: {this.pogPerMinute}");
             Console.WriteLine();
         }
 

@@ -149,5 +149,14 @@ namespace PogCounter.Helper
             Console.WriteLine($"### Total Count: **{countPogs} POGS**");
         }
 
+        public void GetLoveTotal()
+        {
+            var countLove = 0;
+            foreach (var key in this.allLoveInstances.Keys)
+            {
+                countLove += this.allLoveInstances[key];
+            }
+            Console.WriteLine($"### Total Count: **{countLove} LOVES**");
+        }
     }
 }

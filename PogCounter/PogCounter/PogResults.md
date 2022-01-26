@@ -47,6 +47,8 @@ pog's | 1
 pogggggg | 1
 poged | 1
 
+### Total Count: **1155 POGS**
+
 ### A bit of extra fun....LOVE INSTANCES!
 #### Love Dictionary
 
@@ -56,4 +58,4 @@ love | 1066
 loved | 18
 loves | 18
 
-### Total Count: **1155 POGS**
+### Total Count: **1102 LOVES**

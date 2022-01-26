@@ -13,7 +13,7 @@ namespace PogCounter.Helper
 
 
             Console.WriteLine($"-----Analyzing {currentTranscript.GetVidTitle()}-----");
-            string outputFile = $"../../../Results/{currentTranscript.GetTextFileName()}_analysis.md";
+            string outputFile = $"../../../Results/{currentTranscript.GetTextFileName().Split(".")[0]}_analysis.md";
             
             FileStream ostrm;
             StreamWriter writer;

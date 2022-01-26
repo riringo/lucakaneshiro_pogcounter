@@ -64,9 +64,11 @@ namespace PogCounter
             Console.WriteLine($"## TOTALS of {files.Length} Transcripts");
             analyzer.PrintDictionary();
             Console.WriteLine();
+            analyzer.GetTotal();
+            Console.WriteLine();
             analyzer.PrintLoveDictionary();
             Console.WriteLine();
-            analyzer.GetTotal();
+            analyzer.GetLoveTotal();
 
             Console.SetOut(oldOut);
             writer.Close();
