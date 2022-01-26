@@ -3,13 +3,13 @@
 
 ### **Pog Stats:**
 
-   	**Total number of words**: 28532
+##### **Total number of words**: 28532
 
-   	**Total number of Pog-like words**: 46
+##### **Total number of Pog-like words**: 46
 
-   	**Pog Density (Number of Pogs / Total Words)**: 0.001612224870321043
+##### **Pog Density (Number of Pogs / Total Words)**: 0.001612224870321043
 
-   	**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.1564625850340136
+##### **Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.1564625850340136
 
 ### **Pog Dictionary**
 **Pog-like Word** | **Count**

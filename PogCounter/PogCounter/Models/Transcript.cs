@@ -155,13 +155,13 @@ namespace PogCounter.Models
             Console.WriteLine();
             Console.WriteLine($"### **Pog Stats:**");
             Console.WriteLine();
-            Console.WriteLine($"   \t**Total number of words**: {this.wordCount}");
+            Console.WriteLine($"##### **Total number of words**: {this.wordCount}");
             Console.WriteLine();
-            Console.WriteLine($"   \t**Total number of Pog-like words**: {this.pogCount}");
+            Console.WriteLine($"##### **Total number of Pog-like words**: {this.pogCount}");
             Console.WriteLine();
-            Console.WriteLine($"   \t**Pog Density (Number of Pogs / Total Words)**: {this.pogDensity}");
+            Console.WriteLine($"##### **Pog Density (Number of Pogs / Total Words)**: {this.pogDensity}");
             Console.WriteLine();
-            Console.WriteLine($"   \t**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: {this.pogPerMinute}");
+            Console.WriteLine($"##### **Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: {this.pogPerMinute}");
             Console.WriteLine();
         }
 
