@@ -1,7 +1,9 @@
 ## TOTALS of 32 Transcripts
-Pog Dictionary
-Pog-like Word | Count
---- | ---
+Complete list of all the pogs found from all transcripts
+
+#### Pog Dictionary
+**Pog-like Word** | **Count**
+:---: | :---:
 pog | 808
 pogging | 102
 plug | 39
@@ -45,11 +47,13 @@ pog's | 1
 pogggggg | 1
 poged | 1
 
-Love Dictionary
-Love-like Word | Count
---- | ---
+### A bit of extra fun....LOVE INSTANCES!
+#### Love Dictionary
+
+**Love-like Word** | **Count**
+:---: | :---:
 love | 1066
 loved | 18
 loves | 18
 
-Total Count: 1155
+### Total Count: **1155 POGS**

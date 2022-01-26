@@ -115,9 +115,11 @@ namespace PogCounter.Helper
         {
 
             //Console.WriteLine("Dictionary: ");
-            Console.WriteLine("Pog Dictionary");
-            Console.WriteLine("Pog-like Word | Count");
-            Console.WriteLine("--- | ---");
+            Console.WriteLine("Complete list of all the pogs found from all transcripts");
+            Console.WriteLine();
+            Console.WriteLine("#### Pog Dictionary");
+            Console.WriteLine("**Pog-like Word** | **Count**");
+            Console.WriteLine(":---: | :---:");
             foreach (var key in this.allPogInstances.Keys)
             {
                 Console.WriteLine($"{key} | {this.allPogInstances[key]}");
@@ -126,10 +128,11 @@ namespace PogCounter.Helper
 
         public void PrintLoveDictionary()
         {
-
-            Console.WriteLine("Love Dictionary");
-            Console.WriteLine("Love-like Word | Count");
-            Console.WriteLine("--- | ---");
+            Console.WriteLine("### A bit of extra fun....LOVE INSTANCES!");
+            Console.WriteLine("#### Love Dictionary");
+            Console.WriteLine();
+            Console.WriteLine("**Love-like Word** | **Count**");
+            Console.WriteLine(":---: | :---:");
             foreach (var key in this.allLoveInstances.Keys)
             {
                 Console.WriteLine($"{key} | {this.allLoveInstances[key]}");
@@ -143,7 +146,7 @@ namespace PogCounter.Helper
             {
                 countPogs += this.allPogInstances[key];
             }
-            Console.WriteLine($"Total Count: {countPogs}");
+            Console.WriteLine($"### Total Count: **{countPogs} POGS**");
         }
 
     }

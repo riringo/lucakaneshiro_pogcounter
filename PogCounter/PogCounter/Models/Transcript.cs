@@ -140,8 +140,8 @@ namespace PogCounter.Models
         {
 
             Console.WriteLine("### Pog Dictionary");
-            Console.WriteLine("Pog-like Word | Count");
-            Console.WriteLine("--- | ---");
+            Console.WriteLine("**Pog-like Word** | **Count**");
+            Console.WriteLine(":---: | :---:");
             foreach (var key in this.pogCountDictionary.Keys)
             {
                 Console.WriteLine($"{key} | {this.pogCountDictionary[key]}");
@@ -154,9 +154,13 @@ namespace PogCounter.Models
             Console.WriteLine($"**Total Runtime in Minutes**: {this.runtimeInMinutes}");
             Console.WriteLine();
             Console.WriteLine($"Pog Stats:");
+            Console.WriteLine();
             Console.WriteLine($"   **Total number of words**: {this.wordCount}");
+            Console.WriteLine();
             Console.WriteLine($"   **Total number of Pog-like words**: {this.pogCount}");
+            Console.WriteLine();
             Console.WriteLine($"   **Pog Density (Number of Pogs / Total Words)**: {this.pogDensity}");
+            Console.WriteLine();
             Console.WriteLine($"   **Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: {this.pogPerMinute}");
             Console.WriteLine();
         }
