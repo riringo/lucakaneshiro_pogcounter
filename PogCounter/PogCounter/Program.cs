@@ -63,7 +63,7 @@ namespace PogCounter
                 return;
             }
             Console.SetOut(writer);
-
+            Console.WriteLine($"__Last Update: {DateTime.UtcNow} UTC__");
             Console.WriteLine();
             Console.WriteLine($"## TOTALS of {files.Length} Transcripts");
             analyzer.PrintDictionary();

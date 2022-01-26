@@ -1,3 +1,4 @@
+__Last Update: 1/26/2022 4:37:09 AM UTC__
 
 ## TOTALS of 32 Transcripts
 Complete list of all the pogs found from all transcripts
