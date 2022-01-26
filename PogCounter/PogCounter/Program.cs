@@ -119,8 +119,7 @@ namespace PogCounter
 
             while (File.Exists(outputFile))
             {
-                outputFile = $"../../../{fileName}{duplicativeIndex}.md";
-                duplicativeIndex++;
+                File.Delete(outputFile);
             }
             return outputFile;
         }
