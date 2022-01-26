@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -16,7 +17,21 @@ namespace PogCounter.Models
         private Dictionary<string, int> pogCountDictionary;
         private int pogCount;
         private double pogDensity;
+        private double pogPerMinute;
 
+        //metadata
+        private string textFileName;
+        private string YTLink;
+        private int runtimeInMinutes;
+        private string vidTitle;
+
+        public Transcript(string fileSource, DataRow rowData) : this(fileSource)
+        {
+            this.textFileName = (string) rowData["textFile"];
+            this.runtimeInMinutes = Convert.ToInt32( rowData["runtimeInMinutes"]);
+            this.YTLink = (string) rowData["link"];
+            this.vidTitle = (string)rowData["videoName"];
+        }
         public Transcript(string fileSource) 
         {
             this.allWordsList = new List<string>();
@@ -26,11 +41,13 @@ namespace PogCounter.Models
             this.pogCountDictionary = new Dictionary<string, int>();
             this.pogCount = 0;
             this.pogDensity = 0.0;
+            this.pogPerMinute = 0.0;
             this.isValidFile = false;
 
             this.GetAllText();
             this.SeparateTextIntoWords();
         }
+
 
         private void GetAllText() 
         {
@@ -112,7 +129,7 @@ namespace PogCounter.Models
             this.pogCount = countPog;
 
             this.pogDensity = (double)this.pogCount / (double)this.wordCount;
-
+            this.pogPerMinute = (double)this.pogCount / (double)this.runtimeInMinutes;
         }
 
         public int GetPogCount() { return this.pogCount; }
@@ -121,11 +138,33 @@ namespace PogCounter.Models
 
         public void PrintDictionary() 
         {
-            Console.WriteLine("\tDictionary: ");
+
+            Console.WriteLine("### Pog Dictionary");
+            Console.WriteLine("Pog-like Word | Count");
+            Console.WriteLine("--- | ---");
             foreach (var key in this.pogCountDictionary.Keys)
             {
-                Console.WriteLine($"\t\t{key}: {this.pogCountDictionary[key]}");
+                Console.WriteLine($"{key} | {this.pogCountDictionary[key]}");
             }
         }
+
+        public void PrintMetadata() 
+        {
+            Console.WriteLine($"## [{this.vidTitle}]({this.YTLink})");
+            Console.WriteLine($"**Total Runtime in Minutes**: {this.runtimeInMinutes}");
+            Console.WriteLine();
+            Console.WriteLine($"Pog Stats:");
+            Console.WriteLine($"   **Total number of words**: {this.wordCount}");
+            Console.WriteLine($"   **Total number of Pog-like words**: {this.pogCount}");
+            Console.WriteLine($"   **Pog Density (Number of Pogs / Total Words)**: {this.pogDensity}");
+            Console.WriteLine($"   **Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: {this.pogPerMinute}");
+            Console.WriteLine();
+        }
+
+        public string GetVidTitle() { return this.vidTitle; }
+        public string GetTextFileName() { return this.textFileName; }
+        public int GetRunTimeMinutes() { return this.runtimeInMinutes; }
+        public string GetYTLink() { return this.YTLink; }
+        public double GetPogPerMinute() { return this.pogPerMinute; }
     }
 }

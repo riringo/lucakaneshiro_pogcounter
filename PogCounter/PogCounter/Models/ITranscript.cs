@@ -21,5 +21,11 @@ namespace PogCounter.Models
         public double GetPogDensity();
 
         public void PrintDictionary();
+
+        public string GetVidTitle();
+        public string GetTextFileName();
+        public int GetRunTimeMinutes();
+        public string GetYTLink();
+        public double GetPogPerMinute();
     }
 }

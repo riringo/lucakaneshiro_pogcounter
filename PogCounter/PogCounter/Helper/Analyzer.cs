@@ -8,10 +8,12 @@ namespace PogCounter.Helper
     class Analyzer
     {
         private Dictionary<string, int> allPogInstances;
+        private Dictionary<string, int> allLoveInstances;
 
         public Analyzer() 
         {
             this.allPogInstances = new Dictionary<string, int>();
+            this.allLoveInstances = new Dictionary<string, int>();
         }
 
         public Dictionary<string, int> AnalyzeText(Transcript currentTranscipt) 
@@ -34,7 +36,7 @@ namespace PogCounter.Helper
                             var pogCharIndex = 0;
                             var isPog = true;
                             var charIndex = 1;
-                            while (pogCharIndex < 2 && isPog && charIndex < word.Length)
+                            while (pogCharIndex < Globals.OriginalPog.Length -1 && isPog && charIndex < word.Length)
                             {
                                 var currentChar = word[charIndex];
 
@@ -53,7 +55,7 @@ namespace PogCounter.Helper
                                 charIndex++;
 
                             }
-                            if (pogCharIndex < 2)
+                            if (pogCharIndex < Globals.OriginalPog.Length - 1)
                             {
                                 isPog = false;
                             }
@@ -72,6 +74,17 @@ namespace PogCounter.Helper
                                 }
                             }
                         }
+                    } else if (word == "love" || word=="loves" || word=="loved")
+                    {
+                        if (this.allLoveInstances.ContainsKey(word))
+                        {
+                            var newValue = this.allLoveInstances[word] + 1;
+                            this.allLoveInstances[word] = newValue;
+                        }
+                        else
+                        {
+                            this.allLoveInstances[word] = 1;
+                        }
                     }
 
 
@@ -82,7 +95,7 @@ namespace PogCounter.Helper
             CombineWithGlobal(pogDictionary);
             return pogDictionary;
         }
-
+        
         private void CombineWithGlobal(Dictionary<string, int> currentDict) 
         {
             foreach (var currentPogWord in currentDict.Keys)
@@ -101,12 +114,28 @@ namespace PogCounter.Helper
         public void PrintDictionary()
         {
 
-            Console.WriteLine("Dictionary: ");
+            //Console.WriteLine("Dictionary: ");
+            Console.WriteLine("Pog Dictionary");
+            Console.WriteLine("Pog-like Word | Count");
+            Console.WriteLine("--- | ---");
             foreach (var key in this.allPogInstances.Keys)
             {
-                Console.WriteLine($"\t{key}: {this.allPogInstances[key]}");
+                Console.WriteLine($"{key} | {this.allPogInstances[key]}");
             }
         }
+
+        public void PrintLoveDictionary()
+        {
+
+            Console.WriteLine("Love Dictionary");
+            Console.WriteLine("Love-like Word | Count");
+            Console.WriteLine("--- | ---");
+            foreach (var key in this.allLoveInstances.Keys)
+            {
+                Console.WriteLine($"{key} | {this.allLoveInstances[key]}");
+            }
+        }
+
         public void GetTotal()
         {
             var countPogs = 0;
