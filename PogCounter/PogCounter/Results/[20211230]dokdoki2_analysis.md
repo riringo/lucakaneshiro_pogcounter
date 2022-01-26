@@ -1,4 +1,5 @@
 ## [【DOKI DOKI LITERATURE CLUB +】PART 2 VOICING ALL【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=cMbCljkhVa4)
+[![Link to 【DOKI DOKI LITERATURE CLUB +】PART 2 VOICING ALL【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/cMbCljkhVa4/0.jpg)](https://www.youtube.com/watch?v=cMbCljkhVa4)
 **Total Runtime in Minutes**: 347
 
 ### **Pog Stats:**

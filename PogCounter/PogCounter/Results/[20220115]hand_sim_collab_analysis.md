@@ -1,4 +1,5 @@
 ## [【HAND SIMULATOR COLLAB】MAFIA BOSS LEARNS HOW TO USE HANDS AGAIN POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=zl7s82XvgD4)
+[![Link to 【HAND SIMULATOR COLLAB】MAFIA BOSS LEARNS HOW TO USE HANDS AGAIN POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/zl7s82XvgD4/0.jpg)](https://www.youtube.com/watch?v=zl7s82XvgD4)
 **Total Runtime in Minutes**: 265
 
 ### **Pog Stats:**

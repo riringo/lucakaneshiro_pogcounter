@@ -1,4 +1,5 @@
 ## [【OUTLAST II】FINISHING OUTLAST II WITH HEART RATE MONITOR POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=P6YKkBCplDU)
+[![Link to 【OUTLAST II】FINISHING OUTLAST II WITH HEART RATE MONITOR POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/P6YKkBCplDU/0.jpg)](https://www.youtube.com/watch?v=P6YKkBCplDU)
 **Total Runtime in Minutes**: 225
 
 ### **Pog Stats:**

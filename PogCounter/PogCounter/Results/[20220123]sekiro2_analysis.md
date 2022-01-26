@@ -1,4 +1,5 @@
 ## [【SEKIRO】MAFIA BOSS ISEKAID AND BECOMES A SHINOBI PRODIGY【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=10jTZGw84Ko)
+[![Link to 【SEKIRO】MAFIA BOSS ISEKAID AND BECOMES A SHINOBI PRODIGY【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/10jTZGw84Ko/0.jpg)](https://www.youtube.com/watch?v=10jTZGw84Ko)
 **Total Runtime in Minutes**: 322
 
 ### **Pog Stats:**

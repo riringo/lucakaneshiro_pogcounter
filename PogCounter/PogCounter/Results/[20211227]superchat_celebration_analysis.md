@@ -1,4 +1,5 @@
 ## [【SILLY TALK LAWL】SUPERCHAT CELEBRATION【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=2NdCHfJqtGI)
+[![Link to 【SILLY TALK LAWL】SUPERCHAT CELEBRATION【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/2NdCHfJqtGI/0.jpg)](https://www.youtube.com/watch?v=2NdCHfJqtGI)
 **Total Runtime in Minutes**: 188
 
 ### **Pog Stats:**

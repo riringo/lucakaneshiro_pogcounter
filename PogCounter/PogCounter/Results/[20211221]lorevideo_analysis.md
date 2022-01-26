@@ -1,4 +1,5 @@
 ## [【LORE VIDEO】Luca Kaneshiro【NIJISANJI EN】](https://www.youtube.com/watch?v=eejfzwmNGYE)
+[![Link to 【LORE VIDEO】Luca Kaneshiro【NIJISANJI EN】](https://img.youtube.com/vi/eejfzwmNGYE/0.jpg)](https://www.youtube.com/watch?v=eejfzwmNGYE)
 **Total Runtime in Minutes**: 4
 
 ### **Pog Stats:**

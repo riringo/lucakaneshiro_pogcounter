@@ -1,4 +1,5 @@
 ## [【A WAY OUT】BREAKING IKE OUT OF JAIL【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=deFah6jqn9g)
+[![Link to 【A WAY OUT】BREAKING IKE OUT OF JAIL【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/deFah6jqn9g/0.jpg)](https://www.youtube.com/watch?v=deFah6jqn9g)
 **Total Runtime in Minutes**: 248
 
 ### **Pog Stats:**

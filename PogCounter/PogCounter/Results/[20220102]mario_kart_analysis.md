@@ -1,4 +1,5 @@
 ## [【MARIO KART 8 DELUXE】ME VS YOU【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=VgNiaH7wRcw)
+[![Link to 【MARIO KART 8 DELUXE】ME VS YOU【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/VgNiaH7wRcw/0.jpg)](https://www.youtube.com/watch?v=VgNiaH7wRcw)
 **Total Runtime in Minutes**: 256
 
 ### **Pog Stats:**

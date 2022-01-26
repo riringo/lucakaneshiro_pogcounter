@@ -1,4 +1,5 @@
 ## ["【UNO COLLAB】YUNO WITH NINA MYSTA AND SHU【NIJISANJI EN | Luca Kaneshiro】"](https://www.youtube.com/watch?v=Sft8ou9Robo)
+[![Link to "【UNO COLLAB】YUNO WITH NINA MYSTA AND SHU【NIJISANJI EN | Luca Kaneshiro】"](https://img.youtube.com/vi/Sft8ou9Robo/0.jpg)](https://www.youtube.com/watch?v=Sft8ou9Robo)
 **Total Runtime in Minutes**: 226
 
 ### **Pog Stats:**

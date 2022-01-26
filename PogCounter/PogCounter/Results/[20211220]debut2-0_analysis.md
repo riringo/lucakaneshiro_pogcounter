@@ -1,4 +1,5 @@
 ## [【INTRO 2.0 】WELCOME TO THE GANG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=jWpUiTPTfes)
+[![Link to 【INTRO 2.0 】WELCOME TO THE GANG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/jWpUiTPTfes/0.jpg)](https://www.youtube.com/watch?v=jWpUiTPTfes)
 **Total Runtime in Minutes**: 186
 
 ### **Pog Stats:**

@@ -1,4 +1,5 @@
 ## [【DEBUT STREAM】THE MOB BOSS HAS ARRIVED【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=zniC34tfjrU)
+[![Link to 【DEBUT STREAM】THE MOB BOSS HAS ARRIVED【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/zniC34tfjrU/0.jpg)](https://www.youtube.com/watch?v=zniC34tfjrU)
 **Total Runtime in Minutes**: 24
 
 ### **Pog Stats:**

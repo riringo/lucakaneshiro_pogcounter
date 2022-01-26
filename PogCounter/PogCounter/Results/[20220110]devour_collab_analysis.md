@@ -1,4 +1,5 @@
 ## [【DEVOUR】MEAN AND EVIL MAFIA BOSS SETS ON A JOURNEY TO FIGHT DEVOURER【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=v-l7frbdrbE)
+[![Link to 【DEVOUR】MEAN AND EVIL MAFIA BOSS SETS ON A JOURNEY TO FIGHT DEVOURER【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/v-l7frbdrbE/0.jpg)](https://www.youtube.com/watch?v=v-l7frbdrbE)
 **Total Runtime in Minutes**: 289
 
 ### **Pog Stats:**

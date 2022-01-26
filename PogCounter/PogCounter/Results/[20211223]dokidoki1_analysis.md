@@ -1,4 +1,5 @@
 ## [【DOKI DOKI LITERATURE CLUB +】BLIND PLAYTHROUGH VOICING ALL CHARACTERS【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=d4XCxewKIjY)
+[![Link to 【DOKI DOKI LITERATURE CLUB +】BLIND PLAYTHROUGH VOICING ALL CHARACTERS【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/d4XCxewKIjY/0.jpg)](https://www.youtube.com/watch?v=d4XCxewKIjY)
 **Total Runtime in Minutes**: 408
 
 ### **Pog Stats:**

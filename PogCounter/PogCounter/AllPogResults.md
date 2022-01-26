@@ -1,4 +1,5 @@
 ## [【DEBUT STREAM】THE MOB BOSS HAS ARRIVED【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=zniC34tfjrU)
+[![Link to 【DEBUT STREAM】THE MOB BOSS HAS ARRIVED【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/zniC34tfjrU/0.jpg)](https://www.youtube.com/watch?v=zniC34tfjrU)
 **Total Runtime in Minutes**: 24
 
 ### **Pog Stats:**
@@ -17,6 +18,7 @@
 
 
 ## [【INTRO 2.0 】WELCOME TO THE GANG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=jWpUiTPTfes)
+[![Link to 【INTRO 2.0 】WELCOME TO THE GANG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/jWpUiTPTfes/0.jpg)](https://www.youtube.com/watch?v=jWpUiTPTfes)
 **Total Runtime in Minutes**: 186
 
 ### **Pog Stats:**
@@ -40,6 +42,7 @@ pogies | 1
 
 
 ## [【GUERRILLA】STREAMING UNTIL I BEAT THIS GAME【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=pL6I9Lc1IXM)
+[![Link to 【GUERRILLA】STREAMING UNTIL I BEAT THIS GAME【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/pL6I9Lc1IXM/0.jpg)](https://www.youtube.com/watch?v=pL6I9Lc1IXM)
 **Total Runtime in Minutes**: 27
 
 ### **Pog Stats:**
@@ -58,6 +61,7 @@ pogies | 1
 
 
 ## [【LORE VIDEO】Luca Kaneshiro【NIJISANJI EN】](https://www.youtube.com/watch?v=eejfzwmNGYE)
+[![Link to 【LORE VIDEO】Luca Kaneshiro【NIJISANJI EN】](https://img.youtube.com/vi/eejfzwmNGYE/0.jpg)](https://www.youtube.com/watch?v=eejfzwmNGYE)
 **Total Runtime in Minutes**: 4
 
 ### **Pog Stats:**
@@ -76,6 +80,7 @@ pogies | 1
 
 
 ## [【POKEMON SHINING PEARL】BLIND NUZLOCKE PLAYTHROUGH【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=YAPgOmwzdM4)
+[![Link to 【POKEMON SHINING PEARL】BLIND NUZLOCKE PLAYTHROUGH【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/YAPgOmwzdM4/0.jpg)](https://www.youtube.com/watch?v=YAPgOmwzdM4)
 **Total Runtime in Minutes**: 240
 
 ### **Pog Stats:**
@@ -98,6 +103,7 @@ pug | 1
 
 
 ## [【DOKI DOKI LITERATURE CLUB +】BLIND PLAYTHROUGH VOICING ALL CHARACTERS【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=d4XCxewKIjY)
+[![Link to 【DOKI DOKI LITERATURE CLUB +】BLIND PLAYTHROUGH VOICING ALL CHARACTERS【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/d4XCxewKIjY/0.jpg)](https://www.youtube.com/watch?v=d4XCxewKIjY)
 **Total Runtime in Minutes**: 408
 
 ### **Pog Stats:**
@@ -120,6 +126,7 @@ plug | 2
 
 
 ## [【SILLY TALK LAWL】SUPERCHAT CELEBRATION【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=2NdCHfJqtGI)
+[![Link to 【SILLY TALK LAWL】SUPERCHAT CELEBRATION【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/2NdCHfJqtGI/0.jpg)](https://www.youtube.com/watch?v=2NdCHfJqtGI)
 **Total Runtime in Minutes**: 188
 
 ### **Pog Stats:**
@@ -143,6 +150,7 @@ pogo | 1
 
 
 ## ["【UNO COLLAB】YUNO WITH NINA MYSTA AND SHU【NIJISANJI EN | Luca Kaneshiro】"](https://www.youtube.com/watch?v=Sft8ou9Robo)
+[![Link to "【UNO COLLAB】YUNO WITH NINA MYSTA AND SHU【NIJISANJI EN | Luca Kaneshiro】"](https://img.youtube.com/vi/Sft8ou9Robo/0.jpg)](https://www.youtube.com/watch?v=Sft8ou9Robo)
 **Total Runtime in Minutes**: 226
 
 ### **Pog Stats:**
@@ -166,6 +174,7 @@ pug | 1
 
 
 ## [【POKEMON SHINING PEARL】MOST LUCKY AND UNLUCKY BOSS【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=91Fjdtb7JfY)
+[![Link to 【POKEMON SHINING PEARL】MOST LUCKY AND UNLUCKY BOSS【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/91Fjdtb7JfY/0.jpg)](https://www.youtube.com/watch?v=91Fjdtb7JfY)
 **Total Runtime in Minutes**: 399
 
 ### **Pog Stats:**
@@ -194,6 +203,7 @@ pogo | 2
 
 
 ## [POG! I CAN'T BELIEVE THIS HAPPENED!](https://www.youtube.com/watch?v=koj36Zdp-ho)
+[![Link to POG! I CAN'T BELIEVE THIS HAPPENED!](https://img.youtube.com/vi/koj36Zdp-ho/0.jpg)](https://www.youtube.com/watch?v=koj36Zdp-ho)
 **Total Runtime in Minutes**: 5
 
 ### **Pog Stats:**
@@ -213,6 +223,7 @@ pog | 1
 
 
 ## [【JUMP KING】PLAY TILL WE FINISH (HOPEFULLY)【NIJISANJI EN | Luca Kaneshiro](https://www.youtube.com/watch?v=_sUVkXsDRgI)
+[![Link to 【JUMP KING】PLAY TILL WE FINISH (HOPEFULLY)【NIJISANJI EN | Luca Kaneshiro](https://img.youtube.com/vi/_sUVkXsDRgI/0.jpg)](https://www.youtube.com/watch?v=_sUVkXsDRgI)
 **Total Runtime in Minutes**: 302
 
 ### **Pog Stats:**
@@ -245,6 +256,7 @@ poger | 1
 
 
 ## [【DOKI DOKI LITERATURE CLUB +】PART 2 VOICING ALL【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=cMbCljkhVa4)
+[![Link to 【DOKI DOKI LITERATURE CLUB +】PART 2 VOICING ALL【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/cMbCljkhVa4/0.jpg)](https://www.youtube.com/watch?v=cMbCljkhVa4)
 **Total Runtime in Minutes**: 347
 
 ### **Pog Stats:**
@@ -268,6 +280,7 @@ pogba | 1
 
 
 ## [【Amnesia: The Dark Descent】NEW YEAR SCARE ME【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=UohFZuSBQsE)
+[![Link to 【Amnesia: The Dark Descent】NEW YEAR SCARE ME【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/UohFZuSBQsE/0.jpg)](https://www.youtube.com/watch?v=UohFZuSBQsE)
 **Total Runtime in Minutes**: 450
 
 ### **Pog Stats:**
@@ -295,6 +308,7 @@ plug | 1
 
 
 ## [【MARIO KART 8 DELUXE】ME VS YOU【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=VgNiaH7wRcw)
+[![Link to 【MARIO KART 8 DELUXE】ME VS YOU【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/VgNiaH7wRcw/0.jpg)](https://www.youtube.com/watch?v=VgNiaH7wRcw)
 **Total Runtime in Minutes**: 256
 
 ### **Pog Stats:**
@@ -317,6 +331,7 @@ pug | 4
 
 
 ## [【MINECRAFT】MINING DIAMONDSING【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=uVwc6dmY8as&t=2354s)
+[![Link to 【MINECRAFT】MINING DIAMONDSING【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/2354s/0.jpg)](https://www.youtube.com/watch?v=uVwc6dmY8as&t=2354s)
 **Total Runtime in Minutes**: 277
 
 ### **Pog Stats:**
@@ -349,6 +364,7 @@ pogog | 1
 
 
 ## [【ELLO】SUPERCHAT READING AND TALKING POGGERS POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=-Dl0oRyYV3g)
+[![Link to 【ELLO】SUPERCHAT READING AND TALKING POGGERS POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/-Dl0oRyYV3g/0.jpg)](https://www.youtube.com/watch?v=-Dl0oRyYV3g)
 **Total Runtime in Minutes**: 259
 
 ### **Pog Stats:**
@@ -381,6 +397,7 @@ plug | 1
 
 
 ## [【A WAY OUT】BREAKING IKE OUT OF JAIL【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=deFah6jqn9g)
+[![Link to 【A WAY OUT】BREAKING IKE OUT OF JAIL【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/deFah6jqn9g/0.jpg)](https://www.youtube.com/watch?v=deFah6jqn9g)
 **Total Runtime in Minutes**: 248
 
 ### **Pog Stats:**
@@ -409,6 +426,7 @@ poger | 1
 
 
 ## [【OUTLAST II】SPOOKY FRIDAY BECAUSE THERE IS A COLLAB ON SATURDAY【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=anJePMqtPM8)
+[![Link to 【OUTLAST II】SPOOKY FRIDAY BECAUSE THERE IS A COLLAB ON SATURDAY【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/anJePMqtPM8/0.jpg)](https://www.youtube.com/watch?v=anJePMqtPM8)
 **Total Runtime in Minutes**: 204
 
 ### **Pog Stats:**
@@ -433,6 +451,7 @@ poggy | 1
 
 
 ## [【THE FOREST COLLAB】CHAOS POV【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=2wCYVViJxMk&t=7s)
+[![Link to 【THE FOREST COLLAB】CHAOS POV【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/7s/0.jpg)](https://www.youtube.com/watch?v=2wCYVViJxMk&t=7s)
 **Total Runtime in Minutes**: 229
 
 ### **Pog Stats:**
@@ -454,6 +473,7 @@ pog | 7
 
 
 ## [【GUERILLA】100K CRAZY THANK YOU WOW【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=HH8pDDpci58)
+[![Link to 【GUERILLA】100K CRAZY THANK YOU WOW【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/HH8pDDpci58/0.jpg)](https://www.youtube.com/watch?v=HH8pDDpci58)
 **Total Runtime in Minutes**: 124
 
 ### **Pog Stats:**
@@ -477,6 +497,7 @@ plug | 1
 
 
 ## [【SUPER MARIO ODYSSEY】SUPER MARIO GALAXY LOVER GOES ON AN ODYSSEY POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=Ftpw4BX0l9U)
+[![Link to 【SUPER MARIO ODYSSEY】SUPER MARIO GALAXY LOVER GOES ON AN ODYSSEY POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/Ftpw4BX0l9U/0.jpg)](https://www.youtube.com/watch?v=Ftpw4BX0l9U)
 **Total Runtime in Minutes**: 329
 
 ### **Pog Stats:**
@@ -503,6 +524,7 @@ poggy | 1
 
 
 ## [【DEVOUR】MEAN AND EVIL MAFIA BOSS SETS ON A JOURNEY TO FIGHT DEVOURER【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=v-l7frbdrbE)
+[![Link to 【DEVOUR】MEAN AND EVIL MAFIA BOSS SETS ON A JOURNEY TO FIGHT DEVOURER【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/v-l7frbdrbE/0.jpg)](https://www.youtube.com/watch?v=v-l7frbdrbE)
 **Total Runtime in Minutes**: 289
 
 ### **Pog Stats:**
@@ -528,6 +550,7 @@ poguin | 1
 
 
 ## [【A WAY OUT】MAFIA BOSS SUCCEEDED NOW TRYING TO STAY OUT OF JAIL MONKAS【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=kG2CZuJ8QZg)
+[![Link to 【A WAY OUT】MAFIA BOSS SUCCEEDED NOW TRYING TO STAY OUT OF JAIL MONKAS【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/kG2CZuJ8QZg/0.jpg)](https://www.youtube.com/watch?v=kG2CZuJ8QZg)
 **Total Runtime in Minutes**: 288
 
 ### **Pog Stats:**
@@ -552,6 +575,7 @@ pong | 1
 
 
 ## [【MONSTER HUNTER RISE】MAFIA BOSS GETS ISEKAID AND HUNTS MONSTERS POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=KMS9NVI1NQI)
+[![Link to 【MONSTER HUNTER RISE】MAFIA BOSS GETS ISEKAID AND HUNTS MONSTERS POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/KMS9NVI1NQI/0.jpg)](https://www.youtube.com/watch?v=KMS9NVI1NQI)
 **Total Runtime in Minutes**: 195
 
 ### **Pog Stats:**
@@ -574,6 +598,7 @@ pogg | 1
 
 
 ## [【HAND SIMULATOR COLLAB】MAFIA BOSS LEARNS HOW TO USE HANDS AGAIN POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=zl7s82XvgD4)
+[![Link to 【HAND SIMULATOR COLLAB】MAFIA BOSS LEARNS HOW TO USE HANDS AGAIN POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/zl7s82XvgD4/0.jpg)](https://www.youtube.com/watch?v=zl7s82XvgD4)
 **Total Runtime in Minutes**: 265
 
 ### **Pog Stats:**
@@ -597,6 +622,7 @@ pogging | 2
 
 
 ## [【SEKIRO】MAFIA BOSS WAKE UP AND MAKES A TITLE FOR A GAME CALLED SEKIRO【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=Um1GdICcFbg)
+[![Link to 【SEKIRO】MAFIA BOSS WAKE UP AND MAKES A TITLE FOR A GAME CALLED SEKIRO【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/Um1GdICcFbg/0.jpg)](https://www.youtube.com/watch?v=Um1GdICcFbg)
 **Total Runtime in Minutes**: 382
 
 ### **Pog Stats:**
@@ -625,6 +651,7 @@ pogg | 1
 
 
 ## [【FORTNITE】FORTNITE NOOB CONVERTED INTO LOVING FORTNITE BC OF DRAGON【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=wqIxEYFsJ3M)
+[![Link to 【FORTNITE】FORTNITE NOOB CONVERTED INTO LOVING FORTNITE BC OF DRAGON【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/wqIxEYFsJ3M/0.jpg)](https://www.youtube.com/watch?v=wqIxEYFsJ3M)
 **Total Runtime in Minutes**: 294
 
 ### **Pog Stats:**
@@ -649,6 +676,7 @@ poggers | 1
 
 
 ## [【FRIDAY THE 13TH】 MAFIA BOSS SHOWS HIS TRUE COLOURS (CHAOS POV) POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=dQ6CO9DNKW4)
+[![Link to 【FRIDAY THE 13TH】 MAFIA BOSS SHOWS HIS TRUE COLOURS (CHAOS POV) POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/dQ6CO9DNKW4/0.jpg)](https://www.youtube.com/watch?v=dQ6CO9DNKW4)
 **Total Runtime in Minutes**: 143
 
 ### **Pog Stats:**
@@ -673,6 +701,7 @@ pug | 1
 
 
 ## [【ZATSUDAN】1 MONTH COMFY SOFT VOICE COULDN'T CATCH UP ON SUPERCHATS【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=vsDR_ft3sSU)
+[![Link to 【ZATSUDAN】1 MONTH COMFY SOFT VOICE COULDN'T CATCH UP ON SUPERCHATS【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/vsDR_ft3sSU/0.jpg)](https://www.youtube.com/watch?v=vsDR_ft3sSU)
 **Total Runtime in Minutes**: 159
 
 ### **Pog Stats:**
@@ -698,6 +727,7 @@ poger | 1
 
 
 ## [【OUTLAST II】FINISHING OUTLAST II WITH HEART RATE MONITOR POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=P6YKkBCplDU)
+[![Link to 【OUTLAST II】FINISHING OUTLAST II WITH HEART RATE MONITOR POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/P6YKkBCplDU/0.jpg)](https://www.youtube.com/watch?v=P6YKkBCplDU)
 **Total Runtime in Minutes**: 225
 
 ### **Pog Stats:**
@@ -723,6 +753,7 @@ pong | 1
 
 
 ## [【SEKIRO】MAFIA BOSS ISEKAID AND BECOMES A SHINOBI PRODIGY【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=10jTZGw84Ko)
+[![Link to 【SEKIRO】MAFIA BOSS ISEKAID AND BECOMES A SHINOBI PRODIGY【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/10jTZGw84Ko/0.jpg)](https://www.youtube.com/watch?v=10jTZGw84Ko)
 **Total Runtime in Minutes**: 322
 
 ### **Pog Stats:**
@@ -750,6 +781,7 @@ pogggggg | 1
 
 
 ## [【CLUBHOUSE GAMES】 TWO PEPEGA GUYS TRY AND PLAY GAMES THAT NEED 5HEAD【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=nJyJ3cWOOLk)
+[![Link to 【CLUBHOUSE GAMES】 TWO PEPEGA GUYS TRY AND PLAY GAMES THAT NEED 5HEAD【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/nJyJ3cWOOLk/0.jpg)](https://www.youtube.com/watch?v=nJyJ3cWOOLk)
 **Total Runtime in Minutes**: 270
 
 ### **Pog Stats:**

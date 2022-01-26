@@ -1,4 +1,5 @@
 ## [【POKEMON SHINING PEARL】BLIND NUZLOCKE PLAYTHROUGH【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=YAPgOmwzdM4)
+[![Link to 【POKEMON SHINING PEARL】BLIND NUZLOCKE PLAYTHROUGH【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/YAPgOmwzdM4/0.jpg)](https://www.youtube.com/watch?v=YAPgOmwzdM4)
 **Total Runtime in Minutes**: 240
 
 ### **Pog Stats:**

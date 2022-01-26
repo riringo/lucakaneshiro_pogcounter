@@ -1,4 +1,5 @@
 ## [【GUERRILLA】STREAMING UNTIL I BEAT THIS GAME【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=pL6I9Lc1IXM)
+[![Link to 【GUERRILLA】STREAMING UNTIL I BEAT THIS GAME【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/pL6I9Lc1IXM/0.jpg)](https://www.youtube.com/watch?v=pL6I9Lc1IXM)
 **Total Runtime in Minutes**: 27
 
 ### **Pog Stats:**

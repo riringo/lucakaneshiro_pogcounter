@@ -1,4 +1,5 @@
 ## [【SUPER MARIO ODYSSEY】SUPER MARIO GALAXY LOVER GOES ON AN ODYSSEY POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=Ftpw4BX0l9U)
+[![Link to 【SUPER MARIO ODYSSEY】SUPER MARIO GALAXY LOVER GOES ON AN ODYSSEY POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/Ftpw4BX0l9U/0.jpg)](https://www.youtube.com/watch?v=Ftpw4BX0l9U)
 **Total Runtime in Minutes**: 329
 
 ### **Pog Stats:**

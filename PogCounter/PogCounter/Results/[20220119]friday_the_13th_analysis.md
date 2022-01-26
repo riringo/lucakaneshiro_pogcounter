@@ -1,4 +1,5 @@
 ## [【FRIDAY THE 13TH】 MAFIA BOSS SHOWS HIS TRUE COLOURS (CHAOS POV) POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=dQ6CO9DNKW4)
+[![Link to 【FRIDAY THE 13TH】 MAFIA BOSS SHOWS HIS TRUE COLOURS (CHAOS POV) POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/dQ6CO9DNKW4/0.jpg)](https://www.youtube.com/watch?v=dQ6CO9DNKW4)
 **Total Runtime in Minutes**: 143
 
 ### **Pog Stats:**

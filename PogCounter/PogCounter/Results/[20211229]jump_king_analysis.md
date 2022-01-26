@@ -1,4 +1,5 @@
 ## [【JUMP KING】PLAY TILL WE FINISH (HOPEFULLY)【NIJISANJI EN | Luca Kaneshiro](https://www.youtube.com/watch?v=_sUVkXsDRgI)
+[![Link to 【JUMP KING】PLAY TILL WE FINISH (HOPEFULLY)【NIJISANJI EN | Luca Kaneshiro](https://img.youtube.com/vi/_sUVkXsDRgI/0.jpg)](https://www.youtube.com/watch?v=_sUVkXsDRgI)
 **Total Runtime in Minutes**: 302
 
 ### **Pog Stats:**

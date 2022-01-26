@@ -1,4 +1,5 @@
 ## [【ELLO】SUPERCHAT READING AND TALKING POGGERS POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=-Dl0oRyYV3g)
+[![Link to 【ELLO】SUPERCHAT READING AND TALKING POGGERS POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/-Dl0oRyYV3g/0.jpg)](https://www.youtube.com/watch?v=-Dl0oRyYV3g)
 **Total Runtime in Minutes**: 259
 
 ### **Pog Stats:**
