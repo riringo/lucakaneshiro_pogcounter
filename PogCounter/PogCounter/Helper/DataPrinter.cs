@@ -35,6 +35,8 @@ namespace PogCounter.Helper
             currentTranscript.PrintMetadata();
             currentTranscript.PrintDictionary();
 
+            Console.WriteLine();
+            Console.WriteLine();
             Console.SetOut(oldOut);
             writer.Close();
             ostrm.Close();

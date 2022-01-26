@@ -1,3 +1,4 @@
+
 ## TOTALS of 32 Transcripts
 Complete list of all the pogs found from all transcripts
 
@@ -59,3 +60,4 @@ loved | 18
 loves | 18
 
 ### Total Count: **1102 LOVES**
+

@@ -61,6 +61,7 @@ namespace PogCounter
             }
             Console.SetOut(writer);
 
+            Console.WriteLine();
             Console.WriteLine($"## TOTALS of {files.Length} Transcripts");
             analyzer.PrintDictionary();
             Console.WriteLine();
@@ -70,17 +71,52 @@ namespace PogCounter
             Console.WriteLine();
             analyzer.GetLoveTotal();
 
+            Console.WriteLine();
             Console.SetOut(oldOut);
             writer.Close();
             ostrm.Close();
             Console.WriteLine("Analysis completed.");
 
+
+            CombineMultipleFilesIntoSingleFile("../../../Results", "*.md", GetCombinedOutputFileName());
+
         }
 
+        private static void CombineMultipleFilesIntoSingleFile(string inputDirectoryPath, string inputFileNamePattern, string outputFilePath)
+        {
+            string[] inputFilePaths = Directory.GetFiles(inputDirectoryPath, inputFileNamePattern);
+            Console.WriteLine("Number of files: {0}.", inputFilePaths.Length);
+            using (var outputStream = File.OpenWrite(outputFilePath))
+            {
+                foreach (var inputFilePath in inputFilePaths)
+                {
+                    using (var inputStream = File.OpenRead(inputFilePath))
+                    {
+                        // Buffer size can be passed as the second argument.
+                        inputStream.CopyTo(outputStream);
+                    }
+                    Console.WriteLine("The file {0} has been processed.", inputFilePath);
+                }
+            }
+        }
 
         public static string GetOutputFileName()
         {
             string fileName = "PogResults";
+            int duplicativeIndex = 1;
+            string outputFile = $"../../../{fileName}.md";
+
+            while (File.Exists(outputFile))
+            {
+                outputFile = $"../../../{fileName}{duplicativeIndex}.md";
+                duplicativeIndex++;
+            }
+            return outputFile;
+        }
+
+        public static string GetCombinedOutputFileName()
+        {
+            string fileName = "AllPogResults";
             int duplicativeIndex = 1;
             string outputFile = $"../../../{fileName}.md";
 
