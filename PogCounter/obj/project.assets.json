@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nhngo\\Documents\\GitHub\\yt_transcript_pogcounter\\PogCounter\\PogCounter\\PogCounter.csproj",
+      "projectUniqueName": "C:\\Users\\nhngo\\Documents\\GitHub\\yt_transcript_pogcounter\\PogCounter\\PogCounter.csproj",
       "projectName": "PogCounter",
-      "projectPath": "C:\\Users\\nhngo\\Documents\\GitHub\\yt_transcript_pogcounter\\PogCounter\\PogCounter\\PogCounter.csproj",
+      "projectPath": "C:\\Users\\nhngo\\Documents\\GitHub\\yt_transcript_pogcounter\\PogCounter\\PogCounter.csproj",
       "packagesPath": "C:\\Users\\nhngo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nhngo\\Documents\\GitHub\\yt_transcript_pogcounter\\PogCounter\\PogCounter\\obj\\",
+      "outputPath": "C:\\Users\\nhngo\\Documents\\GitHub\\yt_transcript_pogcounter\\PogCounter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

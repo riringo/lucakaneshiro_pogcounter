@@ -9,22 +9,27 @@ namespace PogCounter.Helper
     {
         private Dictionary<string, int> allPogInstances;
         private Dictionary<string, int> allLoveInstances;
+        private int totalWords;
+        private int totalRunTime;
 
         public Analyzer() 
         {
             this.allPogInstances = new Dictionary<string, int>();
             this.allLoveInstances = new Dictionary<string, int>();
+            this.totalWords = 0;
+            this.totalRunTime = 0;
         }
 
         public Dictionary<string, int> AnalyzeText(Transcript currentTranscipt) 
         {
             var pogDictionary = new Dictionary<string, int>();
-
+            this.totalRunTime += currentTranscipt.GetRunTimeMinutes();
             var totalWords = currentTranscipt.GetWordCount();
             var wordIndex = 0;
             var wordsList = currentTranscipt.GetAllWords().ToArray();
             while (wordIndex < totalWords)
             {
+                this.totalWords++;
                 var word = wordsList[wordIndex];
                 if (word.Length > 1)
                 {
@@ -146,7 +151,15 @@ namespace PogCounter.Helper
             {
                 countPogs += this.allPogInstances[key];
             }
+            Console.WriteLine($"### Total Runtime: **{this.totalRunTime/60} hours & {this.totalRunTime%60} minutes**");
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine($"### Total Words: **{this.totalWords} words**");
             Console.WriteLine($"### Total Count: **{countPogs} POGS**");
+            Console.WriteLine($"### Pog Per Minute (# of Pogs / Runtime in minutes): {(double) countPogs / (double) this.totalRunTime }");
+            Console.WriteLine();
+            Console.WriteLine($"### Pog Density (# of Pogs / Total Words): {(double) countPogs / (double) this.totalWords}");
+            Console.WriteLine();
         }
 
         public void GetLoveTotal()

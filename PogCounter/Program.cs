@@ -66,9 +66,10 @@ namespace PogCounter
             Console.WriteLine($"__Last Update: {DateTime.UtcNow} UTC__");
             Console.WriteLine();
             Console.WriteLine($"## TOTALS of {files.Length} Transcripts");
-            analyzer.PrintDictionary();
             Console.WriteLine();
             analyzer.GetTotal();
+            Console.WriteLine();
+            analyzer.PrintDictionary();
             Console.WriteLine();
             analyzer.PrintLoveDictionary();
             Console.WriteLine();

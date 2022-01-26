@@ -1,6 +1,17 @@
-__Last Update: 1/26/2022 4:37:09 AM UTC__
+__Last Update: 1/26/2022 10:26:30 AM UTC__
 
 ## TOTALS of 32 Transcripts
+
+### Total Runtime: **126 hours & 4 minutes**
+
+
+### Total Words: **555205 words**
+### Total Count: **1155 POGS**
+### Pog Per Minute (# of Pogs / Runtime in minutes): 0.1526969857218403
+
+### Pog Density (# of Pogs / Total Words): 0.002080312677299376
+
+
 Complete list of all the pogs found from all transcripts
 
 #### Pog Dictionary
@@ -48,8 +59,6 @@ pogey | 1
 pog's | 1
 pogggggg | 1
 poged | 1
-
-### Total Count: **1155 POGS**
 
 ### A bit of extra fun....LOVE INSTANCES!
 #### Love Dictionary
