@@ -24,3 +24,14 @@ Words are counted for the Pog Counter if they meet one of the following criteria
 1. Contains the word "Pog"
 2. Contains the characters `{"P", "O", "G"}` in the correct order (i.e., "POOOGGGG" would be counted)
 3. Part of the `Globals.Outliers` list. Check "Accounting for Accent" section for more details
+
+## Results
+Results are outputed as its own page called "PogResults"
+
+## Updates
+The repo owner is lazy so this will probably be updated once a week with new transcripts and stream information (yes, this is done manually because I'm too lazy to mess with Youtube API). 
+
+Last Update: _____
+
+
+Got questions, dm me on twitter @dame_riringo
