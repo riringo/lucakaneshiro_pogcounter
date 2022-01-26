@@ -1,5 +1,6 @@
 ## [【OUTLAST II】SPOOKY FRIDAY BECAUSE THERE IS A COLLAB ON SATURDAY【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=anJePMqtPM8)
 [![Link to 【OUTLAST II】SPOOKY FRIDAY BECAUSE THERE IS A COLLAB ON SATURDAY【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/anJePMqtPM8/0.jpg)](https://www.youtube.com/watch?v=anJePMqtPM8)
+
 **Total Runtime in Minutes**: 204
 
 ### **Pog Stats:**

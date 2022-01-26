@@ -1,5 +1,6 @@
 ## [【ZATSUDAN】1 MONTH COMFY SOFT VOICE COULDN'T CATCH UP ON SUPERCHATS【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=vsDR_ft3sSU)
 [![Link to 【ZATSUDAN】1 MONTH COMFY SOFT VOICE COULDN'T CATCH UP ON SUPERCHATS【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/vsDR_ft3sSU/0.jpg)](https://www.youtube.com/watch?v=vsDR_ft3sSU)
+
 **Total Runtime in Minutes**: 159
 
 ### **Pog Stats:**

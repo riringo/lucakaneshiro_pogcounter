@@ -1,5 +1,6 @@
 ## [【POKEMON SHINING PEARL】MOST LUCKY AND UNLUCKY BOSS【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=91Fjdtb7JfY)
 [![Link to 【POKEMON SHINING PEARL】MOST LUCKY AND UNLUCKY BOSS【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/91Fjdtb7JfY/0.jpg)](https://www.youtube.com/watch?v=91Fjdtb7JfY)
+
 **Total Runtime in Minutes**: 399
 
 ### **Pog Stats:**

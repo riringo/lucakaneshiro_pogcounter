@@ -1,5 +1,6 @@
 ## [【MONSTER HUNTER RISE】MAFIA BOSS GETS ISEKAID AND HUNTS MONSTERS POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=KMS9NVI1NQI)
 [![Link to 【MONSTER HUNTER RISE】MAFIA BOSS GETS ISEKAID AND HUNTS MONSTERS POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/KMS9NVI1NQI/0.jpg)](https://www.youtube.com/watch?v=KMS9NVI1NQI)
+
 **Total Runtime in Minutes**: 195
 
 ### **Pog Stats:**

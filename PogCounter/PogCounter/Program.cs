@@ -1,6 +1,7 @@
 ﻿using PogCounter.Helper;
 using PogCounter.Models;
 using System;
+using System.Collections.Generic;
 using System.Data;
 using System.IO;
 using System.Reflection;
@@ -38,9 +39,11 @@ namespace PogCounter
 
 
             var files = GetTranscripts(TranscriptsPath);
+            var transcripts = new List<Transcript>();
             foreach (var file in files)
             {
-                AnalyzeTranscript(file);
+                var completedTranscript = AnalyzeTranscript(file);
+                transcripts.Add(completedTranscript);
             }
 
 
@@ -72,13 +75,21 @@ namespace PogCounter
             analyzer.GetLoveTotal();
 
             Console.WriteLine();
+            Console.WriteLine("## Individual Results:");
+            Console.WriteLine();
+
+            foreach(var t in transcripts) 
+            {
+                resultsPrinter.PrintTranscript(t);
+            }
+
             Console.SetOut(oldOut);
             writer.Close();
             ostrm.Close();
             Console.WriteLine("Analysis completed.");
 
 
-            CombineMultipleFilesIntoSingleFile("../../../Results", "*.md", GetCombinedOutputFileName());
+           // CombineMultipleFilesIntoSingleFile("../../../Results", "*.md", GetCombinedOutputFileName());
 
         }
 
@@ -135,7 +146,7 @@ namespace PogCounter
             return files;
         }
 
-        public static void AnalyzeTranscript(string filePath)
+        public static Transcript AnalyzeTranscript(string filePath)
         {
             var fileParts = filePath.Split("\\");
             var fileName = fileParts[fileParts.Length - 1];
@@ -144,6 +155,7 @@ namespace PogCounter
             if (rowData == null)
             {
                 Console.WriteLine($"Cannot find {fileName} in the Metadata information. Please update LucaKaneshiroStreams.csv file.");
+                return null; 
             }
             else
             {
@@ -151,8 +163,10 @@ namespace PogCounter
                 var currentTranscript = new Transcript(filePath, rowData);
                 var pogDictionary = analyzer.AnalyzeText(currentTranscript);
                 currentTranscript.SetPogDictionary(pogDictionary);
-                resultsPrinter.PrintTranscript(currentTranscript);
+                resultsPrinter.PrintSingleTranscript(currentTranscript);
                 //currentTranscript.PrintDictionary();
+
+                return currentTranscript;
             }
         }
     }

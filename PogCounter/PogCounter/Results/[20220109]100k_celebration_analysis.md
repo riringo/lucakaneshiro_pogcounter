@@ -1,5 +1,6 @@
 ## [【GUERILLA】100K CRAZY THANK YOU WOW【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=HH8pDDpci58)
 [![Link to 【GUERILLA】100K CRAZY THANK YOU WOW【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/HH8pDDpci58/0.jpg)](https://www.youtube.com/watch?v=HH8pDDpci58)
+
 **Total Runtime in Minutes**: 124
 
 ### **Pog Stats:**

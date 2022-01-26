@@ -1,5 +1,6 @@
 ## [【MINECRAFT】MINING DIAMONDSING【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=uVwc6dmY8as&t=2354s)
 [![Link to 【MINECRAFT】MINING DIAMONDSING【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/2354s/0.jpg)](https://www.youtube.com/watch?v=uVwc6dmY8as&t=2354s)
+
 **Total Runtime in Minutes**: 277
 
 ### **Pog Stats:**

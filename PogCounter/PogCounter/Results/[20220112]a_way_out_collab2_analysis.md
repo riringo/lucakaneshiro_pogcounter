@@ -1,5 +1,6 @@
 ## [【A WAY OUT】MAFIA BOSS SUCCEEDED NOW TRYING TO STAY OUT OF JAIL MONKAS【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=kG2CZuJ8QZg)
 [![Link to 【A WAY OUT】MAFIA BOSS SUCCEEDED NOW TRYING TO STAY OUT OF JAIL MONKAS【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/kG2CZuJ8QZg/0.jpg)](https://www.youtube.com/watch?v=kG2CZuJ8QZg)
+
 **Total Runtime in Minutes**: 288
 
 ### **Pog Stats:**

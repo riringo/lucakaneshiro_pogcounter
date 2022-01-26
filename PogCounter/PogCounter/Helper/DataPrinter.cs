@@ -8,16 +8,14 @@ namespace PogCounter.Helper
 {
     class DataPrinter
     {
-        public void PrintTranscript(Transcript currentTranscript) 
+        public void PrintSingleTranscript(Transcript currentTranscript) 
         {
-
-
-            Console.WriteLine($"-----Analyzing {currentTranscript.GetVidTitle()}-----");
             string outputFile = $"../../../Results/{currentTranscript.GetTextFileName().Split(".")[0]}_analysis.md";
-            
+
             FileStream ostrm;
             StreamWriter writer;
             TextWriter oldOut = Console.Out;
+
 
             try
             {
@@ -31,18 +29,29 @@ namespace PogCounter.Helper
                 return;
             }
             Console.SetOut(writer);
+            PrintTranscript(currentTranscript);
+
+            Console.SetOut(oldOut);
+            writer.Close();
+            ostrm.Close();
+        }
+
+        public void PrintTranscript(Transcript currentTranscript) 
+        {
+
+
+           // Console.WriteLine($"-----Analyzing {currentTranscript.GetVidTitle()}-----");
+            
+
 
             currentTranscript.PrintMetadata();
             currentTranscript.PrintDictionary();
 
             Console.WriteLine();
             Console.WriteLine();
-            Console.SetOut(oldOut);
-            writer.Close();
-            ostrm.Close();
-            Console.WriteLine("Analysis completed.");
+           // Console.WriteLine("Analysis completed.");
 
-            Console.WriteLine("--------------------------------------------------------------------------------");
+           // Console.WriteLine("--------------------------------------------------------------------------------");
 
         }
     }

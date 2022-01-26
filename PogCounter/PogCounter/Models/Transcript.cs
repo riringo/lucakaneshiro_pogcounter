@@ -155,7 +155,7 @@ namespace PogCounter.Models
             var youtubeParts = this.YTLink.Split("=");
             var youtubeID = youtubeParts[youtubeParts.Length - 1];
             Console.WriteLine($"[![Link to {this.vidTitle}](https://img.youtube.com/vi/{youtubeID}/0.jpg)]({this.YTLink})");
-
+            Console.WriteLine();
             Console.WriteLine($"**Total Runtime in Minutes**: {this.runtimeInMinutes}");
             Console.WriteLine();
             Console.WriteLine($"### **Pog Stats:**");

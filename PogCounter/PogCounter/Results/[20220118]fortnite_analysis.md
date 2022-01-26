@@ -1,5 +1,6 @@
 ## [【FORTNITE】FORTNITE NOOB CONVERTED INTO LOVING FORTNITE BC OF DRAGON【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=wqIxEYFsJ3M)
 [![Link to 【FORTNITE】FORTNITE NOOB CONVERTED INTO LOVING FORTNITE BC OF DRAGON【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/wqIxEYFsJ3M/0.jpg)](https://www.youtube.com/watch?v=wqIxEYFsJ3M)
+
 **Total Runtime in Minutes**: 294
 
 ### **Pog Stats:**
