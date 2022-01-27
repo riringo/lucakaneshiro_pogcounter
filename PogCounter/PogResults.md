@@ -1,15 +1,15 @@
-__Last Update: 1/26/2022 10:26:30 AM UTC__
+__Last Update: 1/27/2022 1:45:47 AM UTC__
 
-## TOTALS of 32 Transcripts
+## TOTALS of 31 Transcripts
 
-### Total Runtime: **126 hours & 4 minutes**
+### Total Runtime: **131 hours & 45 minutes**
 
 
-### Total Words: **555205 words**
-### Total Count: **1155 POGS**
-### Pog Per Minute (# of Pogs / Runtime in minutes): 0.1526969857218403
+### Total Words: **582940 words**
+### Total Count: **1187 POGS**
+### Pog Per Minute (# of Pogs / Runtime in minutes): 0.15015812776723592
 
-### Pog Density (# of Pogs / Total Words): 0.002080312677299376
+### Pog Density (# of Pogs / Total Words): 0.002036230143754074
 
 
 Complete list of all the pogs found from all transcripts
@@ -17,18 +17,18 @@ Complete list of all the pogs found from all transcripts
 #### Pog Dictionary
 **Pog-like Word** | **Count**
 :---: | :---:
-pog | 808
+pog | 827
 pogging | 102
-plug | 39
+plug | 40
 poggers | 5
 pogies | 3
 pogbadoof | 1
-pug | 66
+pug | 73
 poger's | 2
 parking | 28
 pogo | 5
 pong | 9
-pogba | 23
+pogba | 27
 poggies | 4
 pogerous | 1
 pogs | 3
@@ -45,7 +45,7 @@ pogi | 1
 pogingi | 1
 pogger | 1
 pogged | 8
-pogbas | 2
+pogbas | 3
 pogog | 1
 pogwin | 2
 poggingn | 1
@@ -65,11 +65,11 @@ poged | 1
 
 **Love-like Word** | **Count**
 :---: | :---:
-love | 1066
+love | 1097
 loved | 18
-loves | 18
+loves | 20
 
-### Total Count: **1102 LOVES**
+### Total Count: **1135 LOVES**
 
 ## Individual Results:
 
@@ -126,26 +126,6 @@ pogies | 1
 ### **Pog Stats:**
 
 &nbsp;&nbsp;&nbsp;**Total number of words**: 1245
-
-&nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 0
-
-&nbsp;&nbsp;&nbsp;**Pog Density (Number of Pogs / Total Words)**: 0
-
-&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0
-
-### **Pog Dictionary**
-**Pog-like Word** | **Count**
-:---: | :---:
-
-
-## [【LORE VIDEO】Luca Kaneshiro【NIJISANJI EN】](https://www.youtube.com/watch?v=eejfzwmNGYE)
-[![Link to 【LORE VIDEO】Luca Kaneshiro【NIJISANJI EN】](https://img.youtube.com/vi/eejfzwmNGYE/0.jpg)](https://www.youtube.com/watch?v=eejfzwmNGYE)
-
-**Total Runtime in Minutes**: 4
-
-### **Pog Stats:**
-
-&nbsp;&nbsp;&nbsp;**Total number of words**: 226
 
 &nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 0
 
@@ -284,27 +264,6 @@ pogerous | 1
 pogging | 2
 pogs | 1
 pogo | 2
-
-
-## [POG! I CAN'T BELIEVE THIS HAPPENED!](https://www.youtube.com/watch?v=koj36Zdp-ho)
-[![Link to POG! I CAN'T BELIEVE THIS HAPPENED!](https://img.youtube.com/vi/koj36Zdp-ho/0.jpg)](https://www.youtube.com/watch?v=koj36Zdp-ho)
-
-**Total Runtime in Minutes**: 5
-
-### **Pog Stats:**
-
-&nbsp;&nbsp;&nbsp;**Total number of words**: 471
-
-&nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 1
-
-&nbsp;&nbsp;&nbsp;**Pog Density (Number of Pogs / Total Words)**: 0.0021231422505307855
-
-&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.2
-
-### **Pog Dictionary**
-**Pog-like Word** | **Count**
-:---: | :---:
-pog | 1
 
 
 ## [【JUMP KING】PLAY TILL WE FINISH (HOPEFULLY)【NIJISANJI EN | Luca Kaneshiro](https://www.youtube.com/watch?v=_sUVkXsDRgI)
@@ -911,5 +870,30 @@ pogers | 1
 parking | 2
 poged | 1
 poguin | 1
+
+
+## [【MONSTER HUNTER RISE】MAFIA BOSS TURNED HUNTER GETS CARRIED BY FEESH【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=8k65xZzrItM)
+[![Link to 【MONSTER HUNTER RISE】MAFIA BOSS TURNED HUNTER GETS CARRIED BY FEESH【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/8k65xZzrItM/0.jpg)](https://www.youtube.com/watch?v=8k65xZzrItM)
+
+**Total Runtime in Minutes**: 350
+
+### **Pog Stats:**
+
+&nbsp;&nbsp;&nbsp;**Total number of words**: 28432
+
+&nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 33
+
+&nbsp;&nbsp;&nbsp;**Pog Density (Number of Pogs / Total Words)**: 0.0011606640405177266
+
+&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.09428571428571429
+
+### **Pog Dictionary**
+**Pog-like Word** | **Count**
+:---: | :---:
+pogba | 4
+pog | 20
+pug | 7
+plug | 1
+pogbas | 1
 
 
