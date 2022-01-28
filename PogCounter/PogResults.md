@@ -1,4 +1,4 @@
-__Last Update: 1/28/2022 1:12:19 AM UTC__
+__Last Update: 1/28/2022 2:17:47 AM UTC__
 
 ## TOTALS of 33 Transcripts
 
@@ -74,41 +74,41 @@ loves | 22
 
 ## Overall Summary
 
-**TextFile** | **StreamDate** | **Runtime** | **YoutubeLink** | **PogDensity** | **PogPerMinute** | 
-:---: | :---: | :---: | :---: | :---: | :---: | 
-[20211219]debut_stream.txt | 12/19/2021 PST | 24 | https://www.youtube.com/watch?v=zniC34tfjrU | 0 | 0 | 
-[20211220]debut2-0.txt | 12/20/2021 PST | 186 | https://www.youtube.com/watch?v=jWpUiTPTfes | 0.0008342022940563086 | 0.06451612903225806 | 
-[20211220]getting_over_it.txt | 12/20/2021 PST | 27 | https://www.youtube.com/watch?v=pL6I9Lc1IXM | 0 | 0 | 
-[20211222]pokemon1.txt | 12/22/2021 PST | 240 | https://www.youtube.com/watch?v=YAPgOmwzdM4 | 0.00043791358505254965 | 0.0375 | 
-[20211223]dokidoki1.txt | 12/23/2021 PST | 408 | https://www.youtube.com/watch?v=d4XCxewKIjY | 0.00044863167339614175 | 0.04656862745098039 | 
-[20211227]superchat_celebration.txt | 12/27/2021 PST | 188 | https://www.youtube.com/watch?v=2NdCHfJqtGI | 0.0013798390187811421 | 0.09574468085106383 | 
-[20211227]uno_collab.txt | 12/27/2021 PST | 226 | https://www.youtube.com/watch?v=Sft8ou9Robo | 0.0010496850944716584 | 0.09292035398230089 | 
-[20211228]pokemon2.txt | 12/28/2021 PST | 399 | https://www.youtube.com/watch?v=91Fjdtb7JfY | 0.0031278101419243854 | 0.20050125313283207 | 
-[20211229]jump_king.txt | 12/29/2021 PST | 302 | https://www.youtube.com/watch?v=_sUVkXsDRgI | 0.004901438465636654 | 0.304635761589404 | 
-[20211230]dokdoki2.txt | 12/30/2021 PST | 347 | https://www.youtube.com/watch?v=cMbCljkhVa4 | 0.0017671313567641862 | 0.15561959654178675 | 
-[20211231]amnesia.txt | 12/31/2021 PST | 450 | https://www.youtube.com/watch?v=UohFZuSBQsE | 0.002109139604954804 | 0.14 | 
-[20220102]mario_kart.txt | 1/2/2022 PST | 256 | https://www.youtube.com/watch?v=VgNiaH7wRcw | 0.0030619596541786743 | 0.19921875 | 
-[20220103]minecraft_collab.txt | 1/3/2022 PST | 277 | https://www.youtube.com/watch?v=uVwc6dmY8as&t=2354s | 0.0014817309311331874 | 0.1588447653429603 | 
-[20220104]superchat_reading1.txt | 1/4/2022 PST | 259 | https://www.youtube.com/watch?v=-Dl0oRyYV3g | 0.006491979112762855 | 0.5328185328185329 | 
-[20220105]a_way_out_collab1.txt | 1/5/2022 PST | 248 | https://www.youtube.com/watch?v=deFah6jqn9g | 0.002527828285068074 | 0.22983870967741934 | 
-[20220106]outlast1.txt | 1/6/2022 PST | 204 | https://www.youtube.com/watch?v=anJePMqtPM8 | 0.0024567702919777 | 0.12745098039215685 | 
-[20220107] forest_collab.txt | 1/7/2022 PST | 229 | https://www.youtube.com/watch?v=2wCYVViJxMk&t=7s | 0.0007019021548396153 | 0.043668122270742356 | 
-[20220109]100k_celebration.txt | 1/9/2022 PST | 124 | https://www.youtube.com/watch?v=HH8pDDpci58 | 0.002742230347349177 | 0.21774193548387097 | 
-[20220109]super_mario_odyssey1.txt | 1/9/2022 PST | 329 | https://www.youtube.com/watch?v=Ftpw4BX0l9U | 0.0039946737683089215 | 0.19148936170212766 | 
-[20220110]devour_collab.txt | 1/10/2022 PST | 289 | https://www.youtube.com/watch?v=v-l7frbdrbE | 0.002186848395463561 | 0.14878892733564014 | 
-[20220112]a_way_out_collab2.txt | 1/12/2022 PST | 288 | https://www.youtube.com/watch?v=kG2CZuJ8QZg | 0.00082443629168556 | 0.06944444444444445 | 
-[20220114]monhun1.txt | 1/14/2022 PST | 195 | https://www.youtube.com/watch?v=KMS9NVI1NQI | 0.0015771315919172006 | 0.08205128205128205 | 
-[20220115]hand_sim_collab.txt | 1/15/2022 PST | 265 | https://www.youtube.com/watch?v=zl7s82XvgD4 | 0.0011536154307600019 | 0.09433962264150944 | 
-[20220117]sekiro1.txt | 1/17/2022 PST | 382 | https://www.youtube.com/watch?v=Um1GdICcFbg | 0.002620320855614973 | 0.12827225130890052 | 
-[20220118]fortnite.txt | 1/18/2022 PST | 294 | https://www.youtube.com/watch?v=wqIxEYFsJ3M | 0.001612224870321043 | 0.1564625850340136 | 
-[20220119]friday_the_13th.txt | 1/19/2022 PST | 143 | https://www.youtube.com/watch?v=dQ6CO9DNKW4 | 0.001314857894204511 | 0.09090909090909091 | 
-[20220121]comfy_zatsudan.txt | 1/21/2022 PST | 159 | https://www.youtube.com/watch?v=vsDR_ft3sSU | 0.002903284340410089 | 0.20125786163522014 | 
-[20220121]outlast2.txt | 1/21/2022 PST | 225 | https://www.youtube.com/watch?v=P6YKkBCplDU | 0.0027597523681658835 | 0.16444444444444445 | 
-[20220123]sekiro2.txt | 1/23/2022 PST | 322 | https://www.youtube.com/watch?v=10jTZGw84Ko | 0.0028332527123211943 | 0.12732919254658384 | 
-[20220125]clubhouse_collab.txt | 1/25/2022 PST | 270 | https://www.youtube.com/watch?v=nJyJ3cWOOLk | 0.0020262569124910295 | 0.17777777777777778 | 
-[20220126]monhun2_collab.txt | 1/26/2022 PST | 350 | https://www.youtube.com/watch?v=8k65xZzrItM | 0.0011606640405177266 | 0.09428571428571429 | 
-[20220126]olympicgames_collab.txt | 1/26/2022 PST | 183 | https://www.youtube.com/watch?v=5DL4v17csN0 | 0.0012844729882886287 | 0.09289617486338798 | 
-[20220127]pokemon_arceus.txt | 1/27/2022 PST | 284 | https://www.youtube.com/watch?v=lIUFPmfqoAo | 0.001723833097595474 | 0.13732394366197184 | 
+**TextFile** | **StreamDate** | **Runtime** | **YoutubeLink** | **PogDensity** | **PogPerMinute** | **Pogs** | 
+:---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+[20211219]debut_stream.txt | 12/19/2021 PST | 24 | https://www.youtube.com/watch?v=zniC34tfjrU | 0 | 0 | 0 | 
+[20211220]debut2-0.txt | 12/20/2021 PST | 186 | https://www.youtube.com/watch?v=jWpUiTPTfes | 0.0008342022940563086 | 0.06451612903225806 | 12 | 
+[20211220]getting_over_it.txt | 12/20/2021 PST | 27 | https://www.youtube.com/watch?v=pL6I9Lc1IXM | 0 | 0 | 0 | 
+[20211222]pokemon1.txt | 12/22/2021 PST | 240 | https://www.youtube.com/watch?v=YAPgOmwzdM4 | 0.00043791358505254965 | 0.0375 | 9 | 
+[20211223]dokidoki1.txt | 12/23/2021 PST | 408 | https://www.youtube.com/watch?v=d4XCxewKIjY | 0.00044863167339614175 | 0.04656862745098039 | 19 | 
+[20211227]superchat_celebration.txt | 12/27/2021 PST | 188 | https://www.youtube.com/watch?v=2NdCHfJqtGI | 0.0013798390187811421 | 0.09574468085106383 | 18 | 
+[20211227]uno_collab.txt | 12/27/2021 PST | 226 | https://www.youtube.com/watch?v=Sft8ou9Robo | 0.0010496850944716584 | 0.09292035398230089 | 21 | 
+[20211228]pokemon2.txt | 12/28/2021 PST | 399 | https://www.youtube.com/watch?v=91Fjdtb7JfY | 0.0031278101419243854 | 0.20050125313283207 | 80 | 
+[20211229]jump_king.txt | 12/29/2021 PST | 302 | https://www.youtube.com/watch?v=_sUVkXsDRgI | 0.004901438465636654 | 0.304635761589404 | 92 | 
+[20211230]dokdoki2.txt | 12/30/2021 PST | 347 | https://www.youtube.com/watch?v=cMbCljkhVa4 | 0.0017671313567641862 | 0.15561959654178675 | 54 | 
+[20211231]amnesia.txt | 12/31/2021 PST | 450 | https://www.youtube.com/watch?v=UohFZuSBQsE | 0.002109139604954804 | 0.14 | 63 | 
+[20220102]mario_kart.txt | 1/2/2022 PST | 256 | https://www.youtube.com/watch?v=VgNiaH7wRcw | 0.0030619596541786743 | 0.19921875 | 51 | 
+[20220103]minecraft_collab.txt | 1/3/2022 PST | 277 | https://www.youtube.com/watch?v=uVwc6dmY8as&t=2354s | 0.0014817309311331874 | 0.1588447653429603 | 44 | 
+[20220104]superchat_reading1.txt | 1/4/2022 PST | 259 | https://www.youtube.com/watch?v=-Dl0oRyYV3g | 0.006491979112762855 | 0.5328185328185329 | 138 | 
+[20220105]a_way_out_collab1.txt | 1/5/2022 PST | 248 | https://www.youtube.com/watch?v=deFah6jqn9g | 0.002527828285068074 | 0.22983870967741934 | 57 | 
+[20220106]outlast1.txt | 1/6/2022 PST | 204 | https://www.youtube.com/watch?v=anJePMqtPM8 | 0.0024567702919777 | 0.12745098039215685 | 26 | 
+[20220107] forest_collab.txt | 1/7/2022 PST | 229 | https://www.youtube.com/watch?v=2wCYVViJxMk&t=7s | 0.0007019021548396153 | 0.043668122270742356 | 10 | 
+[20220109]100k_celebration.txt | 1/9/2022 PST | 124 | https://www.youtube.com/watch?v=HH8pDDpci58 | 0.002742230347349177 | 0.21774193548387097 | 27 | 
+[20220109]super_mario_odyssey1.txt | 1/9/2022 PST | 329 | https://www.youtube.com/watch?v=Ftpw4BX0l9U | 0.0039946737683089215 | 0.19148936170212766 | 63 | 
+[20220110]devour_collab.txt | 1/10/2022 PST | 289 | https://www.youtube.com/watch?v=v-l7frbdrbE | 0.002186848395463561 | 0.14878892733564014 | 43 | 
+[20220112]a_way_out_collab2.txt | 1/12/2022 PST | 288 | https://www.youtube.com/watch?v=kG2CZuJ8QZg | 0.00082443629168556 | 0.06944444444444445 | 20 | 
+[20220114]monhun1.txt | 1/14/2022 PST | 195 | https://www.youtube.com/watch?v=KMS9NVI1NQI | 0.0015771315919172006 | 0.08205128205128205 | 16 | 
+[20220115]hand_sim_collab.txt | 1/15/2022 PST | 265 | https://www.youtube.com/watch?v=zl7s82XvgD4 | 0.0011536154307600019 | 0.09433962264150944 | 25 | 
+[20220117]sekiro1.txt | 1/17/2022 PST | 382 | https://www.youtube.com/watch?v=Um1GdICcFbg | 0.002620320855614973 | 0.12827225130890052 | 49 | 
+[20220118]fortnite.txt | 1/18/2022 PST | 294 | https://www.youtube.com/watch?v=wqIxEYFsJ3M | 0.001612224870321043 | 0.1564625850340136 | 46 | 
+[20220119]friday_the_13th.txt | 1/19/2022 PST | 143 | https://www.youtube.com/watch?v=dQ6CO9DNKW4 | 0.001314857894204511 | 0.09090909090909091 | 13 | 
+[20220121]comfy_zatsudan.txt | 1/21/2022 PST | 159 | https://www.youtube.com/watch?v=vsDR_ft3sSU | 0.002903284340410089 | 0.20125786163522014 | 32 | 
+[20220121]outlast2.txt | 1/21/2022 PST | 225 | https://www.youtube.com/watch?v=P6YKkBCplDU | 0.0027597523681658835 | 0.16444444444444445 | 37 | 
+[20220123]sekiro2.txt | 1/23/2022 PST | 322 | https://www.youtube.com/watch?v=10jTZGw84Ko | 0.0028332527123211943 | 0.12732919254658384 | 41 | 
+[20220125]clubhouse_collab.txt | 1/25/2022 PST | 270 | https://www.youtube.com/watch?v=nJyJ3cWOOLk | 0.0020262569124910295 | 0.17777777777777778 | 48 | 
+[20220126]monhun2_collab.txt | 1/26/2022 PST | 350 | https://www.youtube.com/watch?v=8k65xZzrItM | 0.0011606640405177266 | 0.09428571428571429 | 33 | 
+[20220126]olympicgames_collab.txt | 1/26/2022 PST | 183 | https://www.youtube.com/watch?v=5DL4v17csN0 | 0.0012844729882886287 | 0.09289617486338798 | 17 | 
+[20220127]pokemon_arceus.txt | 1/27/2022 PST | 284 | https://www.youtube.com/watch?v=lIUFPmfqoAo | 0.001723833097595474 | 0.13732394366197184 | 39 | 
 
 ## Individual Results:
 

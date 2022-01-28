@@ -106,14 +106,15 @@ namespace PogCounter
         {
             DataRow dr = summaryTable.NewRow();
 
-            var metadataColumn = new string[6];
+            var metadataColumn = new string[7];
             metadataColumn[0] = completedTranscript.GetTextFileName();
             metadataColumn[1] = completedTranscript.GetStreamDate().ToString("d") + " PST";
             metadataColumn[2] = completedTranscript.GetRunTimeMinutes().ToString();
             metadataColumn[3] = completedTranscript.GetYTLink();
             metadataColumn[4] = completedTranscript.GetPogDensity().ToString();
             metadataColumn[5] = completedTranscript.GetPogPerMinute().ToString();
-           
+            metadataColumn[6] = completedTranscript.GetPogCount().ToString();
+
             dr = summaryTable.NewRow();
             dr.ItemArray = metadataColumn;
             summaryTable.Rows.Add(dr);
@@ -131,6 +132,7 @@ namespace PogCounter
             dtData.Columns.Add("YoutubeLink");
             dtData.Columns.Add("PogDensity");
             dtData.Columns.Add("PogPerMinute");
+            dtData.Columns.Add("Pogs");
 
             return dtData;
 
