@@ -32,7 +32,7 @@ Words are counted for the Pog Counter if they meet one of the following criteria
 Results are outputed in [PogResults.md](https://github.com/riringo/lucakaneshiro_pogcounter/blob/main/PogCounter/PogCounter/PogResults.md). Individual results for each transcript is located in the [Results Folder](https://github.com/riringo/lucakaneshiro_pogcounter/tree/main/PogCounter/PogCounter/Results).
 
 ## Deploy to Your Local
-If you want to add in your own transcripts or modify the code. You are free to do so. To run it locally, just clone the branch locally and run. To add in new transcripts, add the transcript to [Transcripts Folder] (https://github.com/riringo/lucakaneshiro_pogcounter/tree/main/PogCounter/PogCounter/Transcripts) and update the [Luca Kaneshiro Stream csv](https://github.com/riringo/lucakaneshiro_pogcounter/blob/main/PogCounter/PogCounter/Transcripts/LucaKaneshiroStreams.csv) with the following:
+If you want to add in your own transcripts or modify the code. You are free to do so. To run it locally, just clone the branch locally and run. To add in new transcripts, add the transcript to [Transcripts Folder](https://github.com/riringo/lucakaneshiro_pogcounter/tree/main/PogCounter/PogCounter/Transcripts) and update the [Luca Kaneshiro Stream csv](https://github.com/riringo/lucakaneshiro_pogcounter/blob/main/PogCounter/PogCounter/Transcripts/LucaKaneshiroStreams.csv) with the following:
 * textFile (name of the transcript file)
 * runtimeInMinutes (length of stream in minutes)
 * link (link to the Youtube stream)
