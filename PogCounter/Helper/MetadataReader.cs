@@ -68,14 +68,12 @@ namespace PogCounter.Helper
                     columnNames+= $"**{dc.ColumnName}** | ";
                 }
                 Console.WriteLine(columnNames);
-                Console.WriteLine();
                 var edges = "";
                 foreach (DataColumn dc in dtData.Columns) 
                 {
                     edges+=(":---: | ");
                 }
                 Console.WriteLine(edges);
-                Console.WriteLine();
                 var rowValues = "";
                 foreach (DataRow dr in dtData.Rows)
                 {
