@@ -75,7 +75,7 @@ namespace PogCounter.Helper
                 }
                 Console.WriteLine(edges);
                 var rowValues = "";
-                /*foreach (DataRow dr in dtData.Rows)
+                foreach (DataRow dr in dtData.Rows)
                 {
                     foreach (var item in dr.ItemArray)
                     {
@@ -84,8 +84,7 @@ namespace PogCounter.Helper
                     Console.WriteLine(rowValues);
                     rowValues = "";
                 }
-                Console.WriteLine();
-                */
+                
             }
         }
     }

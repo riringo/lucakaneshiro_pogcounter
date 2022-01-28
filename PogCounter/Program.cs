@@ -107,7 +107,7 @@ namespace PogCounter
             DataRow dr = summaryTable.NewRow();
 
             var metadataColumn = new string[6];
-            metadataColumn[0] = completedTranscript.GetVidTitle();
+            metadataColumn[0] = completedTranscript.GetTextFileName();
             metadataColumn[1] = completedTranscript.GetStreamDate().ToString("d") + " PST";
             metadataColumn[2] = completedTranscript.GetRunTimeMinutes().ToString();
             metadataColumn[3] = completedTranscript.GetYTLink();
@@ -125,7 +125,7 @@ namespace PogCounter
             string[] rowValues = null;
 
             //Creating columns
-            dtData.Columns.Add("StreamTitle");
+            dtData.Columns.Add("TextFile");
             dtData.Columns.Add("StreamDate");
             dtData.Columns.Add("Runtime");
             dtData.Columns.Add("YoutubeLink");
