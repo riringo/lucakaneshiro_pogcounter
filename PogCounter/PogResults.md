@@ -1,15 +1,15 @@
-__Last Update: 1/28/2022 2:35:38 AM UTC__
+__Last Update: 1/28/2022 9:15:15 PM UTC__
 
-## TOTALS of 33 Transcripts
+## TOTALS of 34 Transcripts
 
-### Total Runtime: **139 hours & 32 minutes**
+### Total Runtime: **142 hours & 1 minutes**
 
 
-### Total Words: **618799 words**
-### Total Count: **1243 POGS**
-### Pog Per Minute (# of Pogs / Runtime in minutes): 0.14847109412326803
+### Total Words: **631141 words**
+### Total Count: **1289 POGS**
+### Pog Per Minute (# of Pogs / Runtime in minutes): 0.1512733247271447
 
-### Pog Density (# of Pogs / Total Words): 0.0020087298137198024
+### Pog Density (# of Pogs / Total Words): 0.002042332854306724
 
 
 Complete list of all the pogs found from all transcripts
@@ -17,24 +17,24 @@ Complete list of all the pogs found from all transcripts
 #### Pog Dictionary
 **Pog-like Word** | **Count**
 :---: | :---:
-pog | 867
-pogging | 108
-plug | 44
+pog | 897
+pogging | 109
+plug | 45
 poggers | 5
 pogies | 3
 pogbadoof | 1
-pug | 75
+pug | 80
 poger's | 2
 parking | 28
 pogo | 5
 pong | 9
-pogba | 29
+pogba | 33
 poggies | 4
 pogerous | 1
 pogs | 3
 pogent | 7
 pogba's | 2
-pogers | 2
+pogers | 3
 pogolite | 1
 pogue's | 1
 pogen | 4
@@ -45,7 +45,7 @@ pogi | 1
 pogingi | 1
 pogger | 1
 pogged | 8
-pogbas | 3
+pogbas | 4
 pogog | 1
 pogwin | 2
 poggingn | 1
@@ -54,23 +54,25 @@ pok | 1
 poggy | 2
 pogarino | 1
 pogbo | 1
-poguin | 2
+poguin | 3
 pogey | 1
 pog's | 1
 pogggggg | 1
 poged | 1
 poglet | 1
+pogus | 1
+pogma | 1
 
 ### A bit of extra fun....LOVE INSTANCES!
 #### Love Dictionary
 
 **Love-like Word** | **Count**
 :---: | :---:
-love | 1138
+love | 1197
 loved | 19
 loves | 22
 
-### Total Count: **1179 LOVES**
+### Total Count: **1238 LOVES**
 
 ## Overall Summary
 
@@ -109,6 +111,7 @@ loves | 22
 [20220126]monhun2_collab.txt | 1/26/2022 PST | 350 | https://www.youtube.com/watch?v=8k65xZzrItM | 0.0011606640405177266 | 0.09428571428571429 | 33 | 28432 | 
 [20220126]olympicgames_collab.txt | 1/26/2022 PST | 183 | https://www.youtube.com/watch?v=5DL4v17csN0 | 0.0012844729882886287 | 0.09289617486338798 | 17 | 13235 | 
 [20220127]pokemon_arceus.txt | 1/27/2022 PST | 284 | https://www.youtube.com/watch?v=lIUFPmfqoAo | 0.001723833097595474 | 0.13732394366197184 | 39 | 22624 | 
+[20220128]membership_stream.txt | 1/28/2022 PST | 149 | https://www.youtube.com/watch?v=mwzVI1WygYc | 0.0037271106789823366 | 0.3087248322147651 | 46 | 12342 | 
 
 ## Individual Results:
 
@@ -984,5 +987,35 @@ poglet | 1
 pogging | 2
 pogen | 1
 plug | 3
+
+
+## [【MEMBERSHIPS】MAFIA BOSS TAKES FIRST STEP TO REMAKING THE MAFIA【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=mwzVI1WygYc)
+[![Link to 【MEMBERSHIPS】MAFIA BOSS TAKES FIRST STEP TO REMAKING THE MAFIA【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/mwzVI1WygYc/0.jpg)](https://www.youtube.com/watch?v=mwzVI1WygYc)
+
+**Total Runtime in Minutes**: 149
+
+### **Pog Stats:**
+
+&nbsp;&nbsp;&nbsp;**Total number of words**: 12342
+
+&nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 46
+
+&nbsp;&nbsp;&nbsp;**Pog Density (Number of Pogs / Total Words)**: 0.0037271106789823366
+
+&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.3087248322147651
+
+### **Pog Dictionary**
+**Pog-like Word** | **Count**|
+:---: | :---:
+pog | 30
+pogba | 4
+pogbas | 1
+poguin | 1
+pogging | 1
+pug | 5
+pogus | 1
+pogers | 1
+pogma | 1
+plug | 1
 
 
