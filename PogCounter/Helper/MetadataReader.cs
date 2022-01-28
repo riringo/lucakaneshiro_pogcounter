@@ -62,27 +62,31 @@ namespace PogCounter.Helper
         {
             if (dtData != null && dtData.Rows.Count > 0)
             {
+                var columnNames = "";
                 foreach (DataColumn dc in dtData.Columns)
                 {
-                    Console.Write($"**{dc.ColumnName}** | ");
+                    columnNames+= $"**{dc.ColumnName}** | ";
                 }
+                Console.WriteLine(columnNames);
                 Console.WriteLine();
-                Console.WriteLine();
+                var edges = "";
                 foreach (DataColumn dc in dtData.Columns) 
                 {
-                    Console.Write(":---: |");
+                    edges+=(":---: |");
                 }
+                Console.WriteLine(edges);
                 Console.WriteLine();
-                Console.WriteLine();
+                var rowValues = "";
                 foreach (DataRow dr in dtData.Rows)
                 {
                     foreach (var item in dr.ItemArray)
                     {
-                        Console.Write(item.ToString() + " | ");
+                        rowValues+=(item.ToString() + " | ");
                     }
-                    Console.WriteLine();
-                    Console.WriteLine();
+                    Console.WriteLine(rowValues);
+                    rowValues = "";
                 }
+                Console.WriteLine();
             }
         }
     }
