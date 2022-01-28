@@ -24,6 +24,7 @@ namespace PogCounter.Models
         private string YTLink;
         private int runtimeInMinutes;
         private string vidTitle;
+        private DateTime streamDate;
 
         public Transcript(string fileSource, DataRow rowData) : this(fileSource)
         {
@@ -31,6 +32,11 @@ namespace PogCounter.Models
             this.runtimeInMinutes = Convert.ToInt32( rowData["runtimeInMinutes"]);
             this.YTLink = (string) rowData["link"];
             this.vidTitle = (string)rowData["videoName"];
+            var dateInTextFile = this.textFileName.Split("[")[1].Split("]")[0];
+            var streamYear = Convert.ToInt32(dateInTextFile.Substring(0, 4));
+            var streamMonth = Convert.ToInt32(dateInTextFile.Substring(4, 2));
+            var streamDate = Convert.ToInt32(dateInTextFile.Substring(6, 2));
+            this.streamDate = new DateTime(streamYear, streamMonth, streamDate);
         }
         public Transcript(string fileSource) 
         {
@@ -175,5 +181,7 @@ namespace PogCounter.Models
         public int GetRunTimeMinutes() { return this.runtimeInMinutes; }
         public string GetYTLink() { return this.YTLink; }
         public double GetPogPerMinute() { return this.pogPerMinute; }
+
+        public DateTime GetStreamDate() { return this.streamDate; }
     }
 }

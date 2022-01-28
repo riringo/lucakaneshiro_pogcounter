@@ -27,5 +27,6 @@ namespace PogCounter.Models
         public int GetRunTimeMinutes();
         public string GetYTLink();
         public double GetPogPerMinute();
+        public DateTime GetStreamDate();
     }
 }

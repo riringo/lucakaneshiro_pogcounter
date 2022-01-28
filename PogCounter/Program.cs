@@ -14,6 +14,7 @@ namespace PogCounter
         public static MetadataReader dataReader = new MetadataReader();
         public static DataTable metadataTable = new DataTable();
         public static DataPrinter resultsPrinter = new DataPrinter();
+        public static DataTable summaryTable = new DataTable();
         static void Main(string[] args)
         {
 
@@ -37,6 +38,7 @@ namespace PogCounter
             metadataTable = dataReader.ConvertCsvToDataTable(Path.Combine(TranscriptsPath, streamDataFile));
             //dataReader.ShowData(streamDataTable);
 
+            summaryTable = CreateOverallTable();
 
             var files = GetTranscripts(TranscriptsPath);
             var transcripts = new List<Transcript>();
@@ -44,12 +46,14 @@ namespace PogCounter
             {
                 var completedTranscript = AnalyzeTranscript(file);
                 transcripts.Add(completedTranscript);
+                AddTranscriptToSummaryDT(completedTranscript);
             }
 
 
             FileStream ostrm;
             StreamWriter writer;
             TextWriter oldOut = Console.Out;
+
 
             try
             {
@@ -76,6 +80,10 @@ namespace PogCounter
             analyzer.GetLoveTotal();
 
             Console.WriteLine();
+            Console.WriteLine("## Overall Summary");
+            Console.WriteLine();
+            dataReader.ShowData(summaryTable);
+            Console.WriteLine();
             Console.WriteLine("## Individual Results:");
             Console.WriteLine();
 
@@ -91,6 +99,40 @@ namespace PogCounter
 
 
            // CombineMultipleFilesIntoSingleFile("../../../Results", "*.md", GetCombinedOutputFileName());
+
+        }
+
+        private static void AddTranscriptToSummaryDT(Transcript completedTranscript) 
+        {
+            DataRow dr = summaryTable.NewRow();
+
+            var metadataColumn = new string[6];
+            metadataColumn[0] = completedTranscript.GetVidTitle();
+            metadataColumn[1] = completedTranscript.GetStreamDate().ToString();
+            metadataColumn[2] = completedTranscript.GetRunTimeMinutes().ToString();
+            metadataColumn[3] = completedTranscript.GetYTLink();
+            metadataColumn[4] = completedTranscript.GetPogDensity().ToString();
+            metadataColumn[5] = completedTranscript.GetPogPerMinute().ToString();
+           
+            dr = summaryTable.NewRow();
+            dr.ItemArray = metadataColumn;
+            summaryTable.Rows.Add(dr);
+        }
+
+        private static DataTable CreateOverallTable() 
+        {
+            DataTable dtData = new DataTable();
+            string[] rowValues = null;
+
+            //Creating columns
+            dtData.Columns.Add("StreamTitle");
+            dtData.Columns.Add("StreamDate");
+            dtData.Columns.Add("Runtime");
+            dtData.Columns.Add("YoutubeLink");
+            dtData.Columns.Add("PogDensity");
+            dtData.Columns.Add("PogPerMinute");
+
+            return dtData;
 
         }
 

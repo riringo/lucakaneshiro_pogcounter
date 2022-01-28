@@ -64,17 +64,21 @@ namespace PogCounter.Helper
             {
                 foreach (DataColumn dc in dtData.Columns)
                 {
-                    Console.Write(dc.ColumnName + " ");
+                    Console.Write($"**{dc.ColumnName}** | ");
                 }
-                Console.WriteLine("\n-----------------------------------------------");
+                Console.WriteLine();
+                foreach (DataColumn dc in dtData.Columns) 
+                {
+                    Console.Write(":---: |");
+                }
 
                 foreach (DataRow dr in dtData.Rows)
                 {
                     foreach (var item in dr.ItemArray)
                     {
-                        Console.Write(item.ToString() + "      ");
+                        Console.Write(item.ToString() + " | ");
                     }
-                    Console.Write("\n");
+                    Console.WriteLine();
                 }
             }
         }
