@@ -108,7 +108,7 @@ namespace PogCounter
 
             var metadataColumn = new string[6];
             metadataColumn[0] = completedTranscript.GetVidTitle();
-            metadataColumn[1] = completedTranscript.GetStreamDate().ToString("yyyy'-'MM'-'dd'") + " PST";
+            metadataColumn[1] = completedTranscript.GetStreamDate().ToString("d") + " PST";
             metadataColumn[2] = completedTranscript.GetRunTimeMinutes().ToString();
             metadataColumn[3] = completedTranscript.GetYTLink();
             metadataColumn[4] = completedTranscript.GetPogDensity().ToString();
