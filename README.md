@@ -39,9 +39,9 @@ If you want to add in your own transcripts or modify the code. You are free to d
 * videoName (name of the video)
 
 ## Finding something other than POG
-You can update [Globals file] (https://github.com/riringo/lucakaneshiro_pogcounter/blob/f5ed7b26ada39a4d3ebe6518dc31740f6a962e37/PogCounter/Models/Globals.cs#L11) with an array of characters of anything else. 
+You can update [Globals file] (https://github.com/riringo/lucakaneshiro_pogcounter/blob/b36889fa0c0a702d3771b3e57398d4a528e2e007/PogCounter/Models/Globals.cs#L11) with an array of characters of anything else. 
 
-Alternatively, you can follow the sample for the "Love" in the [Analyzer file] (https://github.com/riringo/lucakaneshiro_pogcounter/blob/f5ed7b26ada39a4d3ebe6518dc31740f6a962e37/PogCounter/Helper/Analyzer.cs#L77) to determine how to add in your own keyword finder. 
+Alternatively, you can follow the sample for the "Love" in the [Analyzer file] (https://github.com/riringo/lucakaneshiro_pogcounter/blob/b36889fa0c0a702d3771b3e57398d4a528e2e007/PogCounter/Helper/Analyzer.cs#L82) to determine how to add in your own keyword finder. 
 
 ## Updates
 The repo owner is lazy so this will probably be updated once a week with new transcripts and stream information (yes, this is done manually because I'm too lazy to mess with Youtube API). 
