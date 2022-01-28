@@ -146,7 +146,7 @@ namespace PogCounter.Models
         {
 
             Console.WriteLine("### **Pog Dictionary**");
-            Console.WriteLine("**Pog-like Word** | **Count**");
+            Console.WriteLine("**Pog-like Word** | **Count**|");
             Console.WriteLine(":---: | :---:");
             foreach (var key in this.pogCountDictionary.Keys)
             {

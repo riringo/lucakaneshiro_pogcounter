@@ -65,7 +65,7 @@ namespace PogCounter.Helper
                 var columnNames = "";
                 foreach (DataColumn dc in dtData.Columns)
                 {
-                    columnNames+= $"**{dc.ColumnName}** | ";
+                    columnNames+= $"**{dc.ColumnName}**|";
                 }
                 Console.WriteLine(columnNames);
                 Console.WriteLine();
