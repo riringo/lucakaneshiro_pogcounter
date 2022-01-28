@@ -1,4 +1,4 @@
-__Last Update: 1/28/2022 1:07:42 AM UTC__
+__Last Update: 1/28/2022 1:09:45 AM UTC__
 
 ## TOTALS of 33 Transcripts
 
@@ -74,9 +74,9 @@ loves | 22
 
 ## Overall Summary
 
-**StreamTitle**|**StreamDate**|**Runtime**|**YoutubeLink**|**PogDensity**|**PogPerMinute**|
+**StreamTitle** | **StreamDate** | **Runtime** | **YoutubeLink** | **PogDensity** | **PogPerMinute** | 
 
-:---: |:---: |:---: |:---: |:---: |:---: |
+:---: | :---: | :---: | :---: | :---: | :---: | 
 
 【DEBUT STREAM】THE MOB BOSS HAS ARRIVED【NIJISANJI EN | Luca Kaneshiro】 | 12/19/2021 PST | 24 | https://www.youtube.com/watch?v=zniC34tfjrU | 0 | 0 | 
 【INTRO 2.0 】WELCOME TO THE GANG【NIJISANJI EN | Luca Kaneshiro】 | 12/20/2021 PST | 186 | https://www.youtube.com/watch?v=jWpUiTPTfes | 0.0008342022940563086 | 0.06451612903225806 | 
