@@ -106,7 +106,7 @@ namespace PogCounter
         {
             DataRow dr = summaryTable.NewRow();
 
-            var metadataColumn = new string[7];
+            var metadataColumn = new string[8];
             metadataColumn[0] = completedTranscript.GetTextFileName();
             metadataColumn[1] = completedTranscript.GetStreamDate().ToString("d") + " PST";
             metadataColumn[2] = completedTranscript.GetRunTimeMinutes().ToString();
@@ -114,6 +114,7 @@ namespace PogCounter
             metadataColumn[4] = completedTranscript.GetPogDensity().ToString();
             metadataColumn[5] = completedTranscript.GetPogPerMinute().ToString();
             metadataColumn[6] = completedTranscript.GetPogCount().ToString();
+            metadataColumn[7] = completedTranscript.GetWordCount().ToString();
 
             dr = summaryTable.NewRow();
             dr.ItemArray = metadataColumn;
@@ -133,6 +134,7 @@ namespace PogCounter
             dtData.Columns.Add("PogDensity");
             dtData.Columns.Add("PogPerMinute");
             dtData.Columns.Add("Pogs");
+            dtData.Columns.Add("TotalWords");
 
             return dtData;
 
