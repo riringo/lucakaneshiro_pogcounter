@@ -5,26 +5,21 @@
 
 ### **Pog Stats:**
 
-&nbsp;&nbsp;&nbsp;**Total number of words**: 12342
+&nbsp;&nbsp;&nbsp;**Total number of words**: 13064
 
-&nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 46
+&nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 47
 
-&nbsp;&nbsp;&nbsp;**Pog Density (Number of Pogs / Total Words)**: 0.0037271106789823366
+&nbsp;&nbsp;&nbsp;**Pog Density (Number of Pogs / Total Words)**: 0.003597672994488671
 
-&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.3087248322147651
+&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.31543624161073824
 
 ### **Pog Dictionary**
 **Pog-like Word** | **Count**|
 :---: | :---:
-pog | 30
-pogba | 4
-pogbas | 1
-poguin | 1
-pogging | 1
-pug | 5
-pogus | 1
-pogers | 1
-pogma | 1
-plug | 1
+pog | 35
+pug | 3
+plug | 4
+pogging | 4
+pogy | 1
 
 

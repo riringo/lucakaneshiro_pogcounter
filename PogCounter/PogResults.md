@@ -1,15 +1,15 @@
-__Last Update: 1/28/2022 9:15:15 PM UTC__
+__Last Update: 2/1/2022 11:23:58 PM UTC__
 
-## TOTALS of 34 Transcripts
+## TOTALS of 37 Transcripts
 
-### Total Runtime: **142 hours & 1 minutes**
+### Total Runtime: **153 hours & 44 minutes**
 
 
-### Total Words: **631141 words**
-### Total Count: **1289 POGS**
-### Pog Per Minute (# of Pogs / Runtime in minutes): 0.1512733247271447
+### Total Words: **675962 words**
+### Total Count: **1434 POGS**
+### Pog Per Minute (# of Pogs / Runtime in minutes): 0.15546400693842152
 
-### Pog Density (# of Pogs / Total Words): 0.002042332854306724
+### Pog Density (# of Pogs / Total Words): 0.0021214210266257572
 
 
 Complete list of all the pogs found from all transcripts
@@ -17,16 +17,16 @@ Complete list of all the pogs found from all transcripts
 #### Pog Dictionary
 **Pog-like Word** | **Count**
 :---: | :---:
-pog | 897
-pogging | 109
-plug | 45
+pog | 1003
+pogging | 118
+plug | 56
 poggers | 5
 pogies | 3
 pogbadoof | 1
-pug | 80
+pug | 89
 poger's | 2
-parking | 28
-pogo | 5
+parking | 32
+pogo | 7
 pong | 9
 pogba | 33
 poggies | 4
@@ -38,7 +38,7 @@ pogers | 3
 pogolite | 1
 pogue's | 1
 pogen | 4
-poger | 5
+poger | 6
 poging | 3
 pogvoi | 1
 pogi | 1
@@ -54,12 +54,13 @@ pok | 1
 poggy | 2
 pogarino | 1
 pogbo | 1
-poguin | 3
-pogey | 1
+poguin | 4
+pogey | 2
 pog's | 1
 pogggggg | 1
 poged | 1
 poglet | 1
+pogy | 1
 pogus | 1
 pogma | 1
 
@@ -68,11 +69,11 @@ pogma | 1
 
 **Love-like Word** | **Count**
 :---: | :---:
-love | 1197
-loved | 19
-loves | 22
+love | 1296
+loved | 20
+loves | 26
 
-### Total Count: **1238 LOVES**
+### Total Count: **1342 LOVES**
 
 ## Overall Summary
 
@@ -111,7 +112,10 @@ loves | 22
 [20220126]monhun2_collab.txt | 1/26/2022 PST | 350 | https://www.youtube.com/watch?v=8k65xZzrItM | 0.0011606640405177266 | 0.09428571428571429 | 33 | 28432 | 
 [20220126]olympicgames_collab.txt | 1/26/2022 PST | 183 | https://www.youtube.com/watch?v=5DL4v17csN0 | 0.0012844729882886287 | 0.09289617486338798 | 17 | 13235 | 
 [20220127]pokemon_arceus.txt | 1/27/2022 PST | 284 | https://www.youtube.com/watch?v=lIUFPmfqoAo | 0.001723833097595474 | 0.13732394366197184 | 39 | 22624 | 
-[20220128]membership_stream.txt | 1/28/2022 PST | 149 | https://www.youtube.com/watch?v=mwzVI1WygYc | 0.0037271106789823366 | 0.3087248322147651 | 46 | 12342 | 
+[20220128]membership_stream.txt | 1/28/2022 PST | 149 | https://www.youtube.com/watch?v=mwzVI1WygYc | 0.003597672994488671 | 0.31543624161073824 | 47 | 13064 | 
+[20220128]ringfit.txt | 1/28/2022 PST | 186 | https://www.youtube.com/watch?v=74PjnXmLivc | 0.0037271106789823366 | 0.24731182795698925 | 46 | 12342 | 
+[20220129]sekiro3.txt | 1/29/2022 PST | 332 | https://www.youtube.com/watch?v=vShSRtQFC5s | 0.0022334247973964647 | 0.10542168674698796 | 35 | 15671 | 
+[20220201]comfy_zatsudan2.txt | 2/1/2022 PST | 185 | https://www.youtube.com/watch?v=2I9-ygBqPuo | 0.0039164490861618795 | 0.34054054054054056 | 63 | 16086 | 
 
 ## Individual Results:
 
@@ -996,13 +1000,38 @@ plug | 3
 
 ### **Pog Stats:**
 
+&nbsp;&nbsp;&nbsp;**Total number of words**: 13064
+
+&nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 47
+
+&nbsp;&nbsp;&nbsp;**Pog Density (Number of Pogs / Total Words)**: 0.003597672994488671
+
+&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.31543624161073824
+
+### **Pog Dictionary**
+**Pog-like Word** | **Count**|
+:---: | :---:
+pog | 35
+pug | 3
+plug | 4
+pogging | 4
+pogy | 1
+
+
+## [【RING FIT ADVENTURE】MAFIA BOSS AGAINST THE WORLD FIGHTS ALL EVEL POGG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=74PjnXmLivc)
+[![Link to 【RING FIT ADVENTURE】MAFIA BOSS AGAINST THE WORLD FIGHTS ALL EVEL POGG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/74PjnXmLivc/0.jpg)](https://www.youtube.com/watch?v=74PjnXmLivc)
+
+**Total Runtime in Minutes**: 186
+
+### **Pog Stats:**
+
 &nbsp;&nbsp;&nbsp;**Total number of words**: 12342
 
 &nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 46
 
 &nbsp;&nbsp;&nbsp;**Pog Density (Number of Pogs / Total Words)**: 0.0037271106789823366
 
-&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.3087248322147651
+&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.24731182795698925
 
 ### **Pog Dictionary**
 **Pog-like Word** | **Count**|
@@ -1017,5 +1046,59 @@ pogus | 1
 pogers | 1
 pogma | 1
 plug | 1
+
+
+## [【SEKIRO】WORLDS BEST SEKIRO NOOB BEATS GAME WITH NO DEATHS ACTUAL POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=vShSRtQFC5s)
+[![Link to 【SEKIRO】WORLDS BEST SEKIRO NOOB BEATS GAME WITH NO DEATHS ACTUAL POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/vShSRtQFC5s/0.jpg)](https://www.youtube.com/watch?v=vShSRtQFC5s)
+
+**Total Runtime in Minutes**: 332
+
+### **Pog Stats:**
+
+&nbsp;&nbsp;&nbsp;**Total number of words**: 15671
+
+&nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 35
+
+&nbsp;&nbsp;&nbsp;**Pog Density (Number of Pogs / Total Words)**: 0.0022334247973964647
+
+&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.10542168674698796
+
+### **Pog Dictionary**
+**Pog-like Word** | **Count**|
+:---: | :---:
+pog | 25
+plug | 2
+pogo | 2
+poger | 1
+pogging | 3
+parking | 1
+pug | 1
+
+
+## [【ZATSUDAN】MAFIA BOSS INCAPABLE OF BEING COMFY TRIES TO BE COMFY POG【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=2I9-ygBqPuo)
+[![Link to 【ZATSUDAN】MAFIA BOSS INCAPABLE OF BEING COMFY TRIES TO BE COMFY POG【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/2I9-ygBqPuo/0.jpg)](https://www.youtube.com/watch?v=2I9-ygBqPuo)
+
+**Total Runtime in Minutes**: 185
+
+### **Pog Stats:**
+
+&nbsp;&nbsp;&nbsp;**Total number of words**: 16086
+
+&nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 63
+
+&nbsp;&nbsp;&nbsp;**Pog Density (Number of Pogs / Total Words)**: 0.0039164490861618795
+
+&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.34054054054054056
+
+### **Pog Dictionary**
+**Pog-like Word** | **Count**|
+:---: | :---:
+pug | 5
+pog | 46
+parking | 3
+pogging | 2
+plug | 5
+pogey | 1
+poguin | 1
 
 
