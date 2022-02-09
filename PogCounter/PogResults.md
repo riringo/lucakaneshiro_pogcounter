@@ -1,15 +1,15 @@
-__Last Update: 2/1/2022 11:23:58 PM UTC__
+__Last Update: 2/9/2022 3:45:59 AM UTC__
 
-## TOTALS of 37 Transcripts
+## TOTALS of 38 Transcripts
 
-### Total Runtime: **153 hours & 44 minutes**
+### Total Runtime: **160 hours & 4 minutes**
 
 
-### Total Words: **675962 words**
-### Total Count: **1434 POGS**
-### Pog Per Minute (# of Pogs / Runtime in minutes): 0.15546400693842152
+### Total Words: **706827 words**
+### Total Count: **1599 POGS**
+### Pog Per Minute (# of Pogs / Runtime in minutes): 0.16649312786339027
 
-### Pog Density (# of Pogs / Total Words): 0.0021214210266257572
+### Pog Density (# of Pogs / Total Words): 0.00226222258063147
 
 
 Complete list of all the pogs found from all transcripts
@@ -17,24 +17,24 @@ Complete list of all the pogs found from all transcripts
 #### Pog Dictionary
 **Pog-like Word** | **Count**
 :---: | :---:
-pog | 1003
-pogging | 118
-plug | 56
+pog | 1090
+pogging | 146
+plug | 61
 poggers | 5
 pogies | 3
 pogbadoof | 1
-pug | 89
+pug | 100
 poger's | 2
-parking | 32
-pogo | 7
+parking | 37
+pogo | 11
 pong | 9
-pogba | 33
+pogba | 39
 poggies | 4
 pogerous | 1
 pogs | 3
 pogent | 7
-pogba's | 2
-pogers | 3
+pogba's | 3
+pogers | 4
 pogolite | 1
 pogue's | 1
 pogen | 4
@@ -49,12 +49,12 @@ pogbas | 4
 pogog | 1
 pogwin | 2
 poggingn | 1
-pogg | 3
-pok | 1
+pogg | 4
+pok | 11
 poggy | 2
 pogarino | 1
 pogbo | 1
-poguin | 4
+poguin | 6
 pogey | 2
 pog's | 1
 pogggggg | 1
@@ -63,17 +63,21 @@ poglet | 1
 pogy | 1
 pogus | 1
 pogma | 1
+pog[ | 1
+poggingi | 1
+pogggg | 1
+poge | 1
 
 ### A bit of extra fun....LOVE INSTANCES!
 #### Love Dictionary
 
 **Love-like Word** | **Count**
 :---: | :---:
-love | 1296
+love | 1355
 loved | 20
 loves | 26
 
-### Total Count: **1342 LOVES**
+### Total Count: **1401 LOVES**
 
 ## Overall Summary
 
@@ -116,6 +120,7 @@ loves | 26
 [20220128]ringfit.txt | 1/28/2022 PST | 186 | https://www.youtube.com/watch?v=74PjnXmLivc | 0.0037271106789823366 | 0.24731182795698925 | 46 | 12342 | 
 [20220129]sekiro3.txt | 1/29/2022 PST | 332 | https://www.youtube.com/watch?v=vShSRtQFC5s | 0.0022334247973964647 | 0.10542168674698796 | 35 | 15671 | 
 [20220201]comfy_zatsudan2.txt | 2/1/2022 PST | 185 | https://www.youtube.com/watch?v=2I9-ygBqPuo | 0.0039164490861618795 | 0.34054054054054056 | 63 | 16086 | 
+[20220207]super_bunny.txt | 2/7/2022 PST | 380 | https://www.youtube.com/watch?v=A_1v8r_fSCQ | 0.005345861007613802 | 0.4342105263157895 | 165 | 30865 | 
 
 ## Individual Results:
 
@@ -1100,5 +1105,41 @@ pogging | 2
 plug | 5
 pogey | 1
 poguin | 1
+
+
+## [【SUPER BUNNY MAN】 BOSS AND SORCERER I HARDLY EVEN KNOW HER COGGERS【NIJISANJI EN | Luca Kaneshiro】](https://www.youtube.com/watch?v=A_1v8r_fSCQ)
+[![Link to 【SUPER BUNNY MAN】 BOSS AND SORCERER I HARDLY EVEN KNOW HER COGGERS【NIJISANJI EN | Luca Kaneshiro】](https://img.youtube.com/vi/A_1v8r_fSCQ/0.jpg)](https://www.youtube.com/watch?v=A_1v8r_fSCQ)
+
+**Total Runtime in Minutes**: 380
+
+### **Pog Stats:**
+
+&nbsp;&nbsp;&nbsp;**Total number of words**: 30865
+
+&nbsp;&nbsp;&nbsp;**Total number of Pog-like words**: 165
+
+&nbsp;&nbsp;&nbsp;**Pog Density (Number of Pogs / Total Words)**: 0.005345861007613802
+
+&nbsp;&nbsp;&nbsp;**Pog Per Minute (Number of Pogs / Total Runtime in Minutes)**: 0.4342105263157895
+
+### **Pog Dictionary**
+**Pog-like Word** | **Count**|
+:---: | :---:
+pog | 87
+pogba | 6
+pogo | 4
+pug | 11
+pogging | 28
+plug | 5
+poguin | 2
+parking | 5
+pok | 10
+pogg | 1
+pog[ | 1
+poggingi | 1
+pogggg | 1
+pogba's | 1
+pogers | 1
+poge | 1
 
 
